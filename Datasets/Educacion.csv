@@ -1,0 +1,841 @@
+,cve_ent,desc_entidad,Cve_Mun,desc_municipio,id_indicador,indicador,2015,2020,unidad_medida,Lat_Decimal,Lon_Decimal,Altitud,Pob_Total,Pob_Masculina,Pob_Femenina,Total De Viviendas Habitadas
+0,13,Hidalgo,1,Acatlán,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,12.79497,16.47215527,Porcentaje,20.145903,-98.438372,2130,405,192,213,107
+1,13,Hidalgo,1,Acatlán,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,5.1292921,7.370290499,Porcentaje,20.145903,-98.438372,2130,405,192,213,107
+2,13,Hidalgo,1,Acatlán,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.049456,0.057084866,Porcentaje,20.145903,-98.438372,2130,405,192,213,107
+3,13,Hidalgo,1,Acatlán,6207019010,Porcentaje de población de 25 años y más alfabeta,82.317768,85.66436476,Porcentaje,20.145903,-98.438372,2130,405,192,213,107
+4,13,Hidalgo,1,Acatlán,6207019020,Porcentaje de población de 15 años y más sin escolaridad,13.586265,11.67702651,Porcentaje,20.145903,-98.438372,2130,405,192,213,107
+5,13,Hidalgo,1,Acatlán,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,54.030501,52.05811138,Porcentaje,20.145903,-98.438372,2130,405,192,213,107
+6,13,Hidalgo,1,Acatlán,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,98.759904,94.47739066,Porcentaje,20.145903,-98.438372,2130,405,192,213,107
+7,13,Hidalgo,1,Acatlán,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,94.957386,88.89728097,Porcentaje,20.145903,-98.438372,2130,405,192,213,107
+8,13,Hidalgo,1,Acatlán,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,29.767828,36.05551108,Porcentaje,20.145903,-98.438372,2130,405,192,213,107
+9,13,Hidalgo,1,Acatlán,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,68.440017,64.42344285,Porcentaje,20.145903,-98.438372,2130,405,192,213,107
+10,13,Hidalgo,2,Acaxochitlán,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,10.201439,12.07217201,Porcentaje,20.158693,-98.203244,2255,4026,1939,2087,946
+11,13,Hidalgo,2,Acaxochitlán,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,3.3309353,4.623315606,Porcentaje,20.158693,-98.203244,2255,4026,1939,2087,946
+12,13,Hidalgo,2,Acaxochitlán,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.1618705,0.032627492,Porcentaje,20.158693,-98.203244,2255,4026,1939,2087,946
+13,13,Hidalgo,2,Acaxochitlán,6207019010,Porcentaje de población de 25 años y más alfabeta,74.443213,78.19640362,Porcentaje,20.158693,-98.203244,2255,4026,1939,2087,946
+14,13,Hidalgo,2,Acaxochitlán,6207019020,Porcentaje de población de 15 años y más sin escolaridad,18.44964,15.68729812,Porcentaje,20.158693,-98.203244,2255,4026,1939,2087,946
+15,13,Hidalgo,2,Acaxochitlán,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,45.061148,45.16024603,Porcentaje,20.158693,-98.203244,2255,4026,1939,2087,946
+16,13,Hidalgo,2,Acaxochitlán,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,96.875474,96.72131148,Porcentaje,20.158693,-98.203244,2255,4026,1939,2087,946
+17,13,Hidalgo,2,Acaxochitlán,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,89.101575,85.02245029,Porcentaje,20.158693,-98.203244,2255,4026,1939,2087,946
+18,13,Hidalgo,2,Acaxochitlán,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,22.516973,25.39007092,Porcentaje,20.158693,-98.203244,2255,4026,1939,2087,946
+19,13,Hidalgo,2,Acaxochitlán,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,67.856115,67.58458677,Porcentaje,20.158693,-98.203244,2255,4026,1939,2087,946
+20,13,Hidalgo,3,Actopan,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,22.427175,23.90319032,Porcentaje,20.269086,-98.942901,2003,29223,13720,15503,7314
+21,13,Hidalgo,3,Actopan,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,16.554502,21.18151815,Porcentaje,20.269086,-98.942901,2003,29223,13720,15503,7314
+22,13,Hidalgo,3,Actopan,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.2480719,0.167216722,Porcentaje,20.269086,-98.942901,2003,29223,13720,15503,7314
+23,13,Hidalgo,3,Actopan,6207019010,Porcentaje de población de 25 años y más alfabeta,93.351152,95.03959276,Porcentaje,20.269086,-98.942901,2003,29223,13720,15503,7314
+24,13,Hidalgo,3,Actopan,6207019020,Porcentaje de población de 15 años y más sin escolaridad,3.9961684,3.359735974,Porcentaje,20.269086,-98.942901,2003,29223,13720,15503,7314
+25,13,Hidalgo,3,Actopan,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,60.956652,60.15883521,Porcentaje,20.269086,-98.942901,2003,29223,13720,15503,7314
+26,13,Hidalgo,3,Actopan,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,98.827258,97.60072431,Porcentaje,20.269086,-98.942901,2003,29223,13720,15503,7314
+27,13,Hidalgo,3,Actopan,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,98.530821,95.84848485,Porcentaje,20.269086,-98.942901,2003,29223,13720,15503,7314
+28,13,Hidalgo,3,Actopan,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,47.41545,52.65609514,Porcentaje,20.269086,-98.942901,2003,29223,13720,15503,7314
+29,13,Hidalgo,3,Actopan,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,56.774083,51.38833883,Porcentaje,20.269086,-98.942901,2003,29223,13720,15503,7314
+30,13,Hidalgo,4,Agua Blanca de Iturbide,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,14.130261,17.77687517,Porcentaje,20.349504,-98.356386,2183,2007,932,1075,498
+31,13,Hidalgo,4,Agua Blanca de Iturbide,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,4.5607297,7.947468183,Porcentaje,20.349504,-98.356386,2183,2007,932,1075,498
+32,13,Hidalgo,4,Agua Blanca de Iturbide,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.0960154,0.06769564,Porcentaje,20.349504,-98.356386,2183,2007,932,1075,498
+33,13,Hidalgo,4,Agua Blanca de Iturbide,6207019010,Porcentaje de población de 25 años y más alfabeta,78.338343,84.62635991,Porcentaje,20.349504,-98.356386,2183,2007,932,1075,498
+34,13,Hidalgo,4,Agua Blanca de Iturbide,6207019020,Porcentaje de población de 15 años y más sin escolaridad,16.034566,11.46764148,Porcentaje,20.349504,-98.356386,2183,2007,932,1075,498
+35,13,Hidalgo,4,Agua Blanca de Iturbide,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,50.647249,53.03867403,Porcentaje,20.349504,-98.356386,2183,2007,932,1075,498
+36,13,Hidalgo,4,Agua Blanca de Iturbide,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,98.745819,97.58131776,Porcentaje,20.349504,-98.356386,2183,2007,932,1075,498
+37,13,Hidalgo,4,Agua Blanca de Iturbide,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,94.548552,94.46202532,Porcentaje,20.349504,-98.356386,2183,2007,932,1075,498
+38,13,Hidalgo,4,Agua Blanca de Iturbide,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,33.500943,40.64080944,Porcentaje,20.349504,-98.356386,2183,2007,932,1075,498
+39,13,Hidalgo,4,Agua Blanca de Iturbide,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,65.178429,62.74031952,Porcentaje,20.349504,-98.356386,2183,2007,932,1075,498
+40,13,Hidalgo,5,Ajacuba,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,17.807416,21.11662358,Porcentaje,20.092525,-99.122133,2143,7245,3546,3699,1831
+41,13,Hidalgo,5,Ajacuba,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,7.7825004,10.41157152,Porcentaje,20.092525,-99.122133,2143,7245,3546,3699,1831
+42,13,Hidalgo,5,Ajacuba,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.2051883,0.104814478,Porcentaje,20.092525,-99.122133,2143,7245,3546,3699,1831
+43,13,Hidalgo,5,Ajacuba,6207019010,Porcentaje de población de 25 años y más alfabeta,90.101107,93.06659601,Porcentaje,20.092525,-99.122133,2143,7245,3546,3699,1831
+44,13,Hidalgo,5,Ajacuba,6207019020,Porcentaje de población de 15 años y más sin escolaridad,7.0423567,4.65376284,Porcentaje,20.092525,-99.122133,2143,7245,3546,3699,1831
+45,13,Hidalgo,5,Ajacuba,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,60.888407,60.33934252,Porcentaje,20.092525,-99.122133,2143,7245,3546,3699,1831
+46,13,Hidalgo,5,Ajacuba,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,99.022271,96.39593909,Porcentaje,20.092525,-99.122133,2143,7245,3546,3699,1831
+47,13,Hidalgo,5,Ajacuba,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,96.534149,95.48387097,Porcentaje,20.092525,-99.122133,2143,7245,3546,3699,1831
+48,13,Hidalgo,5,Ajacuba,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,39.037105,45.66744731,Porcentaje,20.092525,-99.122133,2143,7245,3546,3699,1831
+49,13,Hidalgo,5,Ajacuba,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,67.162538,63.71322759,Porcentaje,20.092525,-99.122133,2143,7245,3546,3699,1831
+50,13,Hidalgo,6,Alfajayucan,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,15.867284,20.13432308,Porcentaje,20.409971,-99.349589,1870,1507,709,798,391
+51,13,Hidalgo,6,Alfajayucan,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,4.6941,8.094733121,Porcentaje,20.409971,-99.349589,1870,1507,709,798,391
+52,13,Hidalgo,6,Alfajayucan,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.1158196,0.445387063,Porcentaje,20.409971,-99.349589,1870,1507,709,798,391
+53,13,Hidalgo,6,Alfajayucan,6207019010,Porcentaje de población de 25 años y más alfabeta,86.133081,89.53213817,Porcentaje,20.409971,-99.349589,1870,1507,709,798,391
+54,13,Hidalgo,6,Alfajayucan,6207019020,Porcentaje de población de 15 años y más sin escolaridad,9.5653359,6.624248851,Porcentaje,20.409971,-99.349589,1870,1507,709,798,391
+55,13,Hidalgo,6,Alfajayucan,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,59.213974,61.5720524,Porcentaje,20.409971,-99.349589,1870,1507,709,798,391
+56,13,Hidalgo,6,Alfajayucan,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,99.48542,97.93293523,Porcentaje,20.409971,-99.349589,1870,1507,709,798,391
+57,13,Hidalgo,6,Alfajayucan,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,97.764402,96.68458781,Porcentaje,20.409971,-99.349589,1870,1507,709,798,391
+58,13,Hidalgo,6,Alfajayucan,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,39.264609,51.5498155,Porcentaje,20.409971,-99.349589,1870,1507,709,798,391
+59,13,Hidalgo,6,Alfajayucan,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,69.75746,64.70130788,Porcentaje,20.409971,-99.349589,1870,1507,709,798,391
+60,13,Hidalgo,7,Almoloya,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,17.009367,20.68627451,Porcentaje,19.703319,-98.403293,2531,4802,2341,2461,1224
+61,13,Hidalgo,7,Almoloya,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,5.6659813,8.649237473,Porcentaje,19.703319,-98.403293,2531,4802,2341,2461,1224
+62,13,Hidalgo,7,Almoloya,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.0799634,0.119825708,Porcentaje,19.703319,-98.403293,2531,4802,2341,2461,1224
+63,13,Hidalgo,7,Almoloya,6207019010,Porcentaje de población de 25 años y más alfabeta,88.639163,91.49992905,Porcentaje,19.703319,-98.403293,2531,4802,2341,2461,1224
+64,13,Hidalgo,7,Almoloya,6207019020,Porcentaje de población de 15 años y más sin escolaridad,7.6993374,6.187363834,Porcentaje,19.703319,-98.403293,2531,4802,2341,2461,1224
+65,13,Hidalgo,7,Almoloya,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,59.562044,59.73645681,Porcentaje,19.703319,-98.403293,2531,4802,2341,2461,1224
+66,13,Hidalgo,7,Almoloya,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,98.863636,98.75604699,Porcentaje,19.703319,-98.403293,2531,4802,2341,2461,1224
+67,13,Hidalgo,7,Almoloya,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,97.181208,94.06779661,Porcentaje,19.703319,-98.403293,2531,4802,2341,2461,1224
+68,13,Hidalgo,7,Almoloya,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,33.082374,39.0060947,Porcentaje,19.703319,-98.403293,2531,4802,2341,2461,1224
+69,13,Hidalgo,7,Almoloya,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,69.545351,64.35729847,Porcentaje,19.703319,-98.403293,2531,4802,2341,2461,1224
+70,13,Hidalgo,8,Apan,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,22.800185,24.6998919,Porcentaje,19.71,-98.451944,2488,26642,12576,14066,6921
+71,13,Hidalgo,8,Apan,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,11.346005,16.06645048,Porcentaje,19.71,-98.451944,2488,26642,12576,14066,6921
+72,13,Hidalgo,8,Apan,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.064905,0.12231894,Porcentaje,19.71,-98.451944,2488,26642,12576,14066,6921
+73,13,Hidalgo,8,Apan,6207019010,Porcentaje de población de 25 años y más alfabeta,91.854744,93.57774597,Porcentaje,19.71,-98.451944,2488,26642,12576,14066,6921
+74,13,Hidalgo,8,Apan,6207019020,Porcentaje de población de 15 años y más sin escolaridad,6.6233967,5.336519315,Porcentaje,19.71,-98.451944,2488,26642,12576,14066,6921
+75,13,Hidalgo,8,Apan,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,62.238931,63.74946375,Porcentaje,19.71,-98.451944,2488,26642,12576,14066,6921
+76,13,Hidalgo,8,Apan,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,98.318817,97.35195997,Porcentaje,19.71,-98.451944,2488,26642,12576,14066,6921
+77,13,Hidalgo,8,Apan,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,97.249509,94.583157,Porcentaje,19.71,-98.451944,2488,26642,12576,14066,6921
+78,13,Hidalgo,8,Apan,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,42.078825,48.03289058,Porcentaje,19.71,-98.451944,2488,26642,12576,14066,6921
+79,13,Hidalgo,8,Apan,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,59.165508,53.77481937,Porcentaje,19.71,-98.451944,2488,26642,12576,14066,6921
+80,13,Hidalgo,9,El Arenal,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,20.028884,22.04330547,Porcentaje,20.221424,-98.911046,2031,2933,1379,1554,685
+81,13,Hidalgo,9,El Arenal,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,8.2623898,11.6006578,Porcentaje,20.221424,-98.911046,2031,2933,1379,1554,685
+82,13,Hidalgo,9,El Arenal,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.1064153,0.185007537,Porcentaje,20.221424,-98.911046,2031,2933,1379,1554,685
+83,13,Hidalgo,9,El Arenal,6207019010,Porcentaje de población de 25 años y más alfabeta,93.397109,94.28235932,Porcentaje,20.221424,-98.911046,2031,2933,1379,1554,685
+84,13,Hidalgo,9,El Arenal,6207019020,Porcentaje de población de 15 años y más sin escolaridad,4.1653998,3.378100589,Porcentaje,20.221424,-98.911046,2031,2933,1379,1554,685
+85,13,Hidalgo,9,El Arenal,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,65.859766,57.69585253,Porcentaje,20.221424,-98.911046,2031,2933,1379,1554,685
+86,13,Hidalgo,9,El Arenal,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,99.20142,96.51719634,Porcentaje,20.221424,-98.911046,2031,2933,1379,1554,685
+87,13,Hidalgo,9,El Arenal,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,96.578947,93.84469697,Porcentaje,20.221424,-98.911046,2031,2933,1379,1554,685
+88,13,Hidalgo,9,El Arenal,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,38.231139,46.01192166,Porcentaje,20.221424,-98.911046,2031,2933,1379,1554,685
+89,13,Hidalgo,9,El Arenal,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,67.436911,62.7929286,Porcentaje,20.221424,-98.911046,2031,2933,1379,1554,685
+90,13,Hidalgo,10,Atitalaquia,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,24.905333,25.72936581,Porcentaje,20.059155,-99.221129,2085,6322,3092,3230,1595
+91,13,Hidalgo,10,Atitalaquia,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,16.55185,20.84614745,Porcentaje,20.059155,-99.221129,2085,6322,3092,3230,1595
+92,13,Hidalgo,10,Atitalaquia,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.2509239,0.149613498,Porcentaje,20.059155,-99.221129,2085,6322,3092,3230,1595
+93,13,Hidalgo,10,Atitalaquia,6207019010,Porcentaje de población de 25 años y más alfabeta,94.928053,96.5170974,Porcentaje,20.059155,-99.221129,2085,6322,3092,3230,1595
+94,13,Hidalgo,10,Atitalaquia,6207019020,Porcentaje de población de 15 años y más sin escolaridad,3.1433916,2.506026099,Porcentaje,20.059155,-99.221129,2085,6322,3092,3230,1595
+95,13,Hidalgo,10,Atitalaquia,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,70.453053,71.31147541,Porcentaje,20.059155,-99.221129,2085,6322,3092,3230,1595
+96,13,Hidalgo,10,Atitalaquia,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,99.417178,97.91395046,Porcentaje,20.059155,-99.221129,2085,6322,3092,3230,1595
+97,13,Hidalgo,10,Atitalaquia,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,96.112853,94.69361971,Porcentaje,20.059155,-99.221129,2085,6322,3092,3230,1595
+98,13,Hidalgo,10,Atitalaquia,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,46.03019,53.54989302,Porcentaje,20.059155,-99.221129,2085,6322,3092,3230,1595
+99,13,Hidalgo,10,Atitalaquia,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,55.148501,50.76884714,Porcentaje,20.059155,-99.221129,2085,6322,3092,3230,1595
+100,13,Hidalgo,11,Atlapexco,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,15.21645,17.35996705,Porcentaje,21.017114,-98.348187,158,2484,1162,1322,628
+101,13,Hidalgo,11,Atlapexco,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,8.1240981,12.65788029,Porcentaje,21.017114,-98.348187,158,2484,1162,1322,628
+102,13,Hidalgo,11,Atlapexco,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.6998557,0.226523888,Porcentaje,21.017114,-98.348187,158,2484,1162,1322,628
+103,13,Hidalgo,11,Atlapexco,6207019010,Porcentaje de población de 25 años y más alfabeta,70.268228,76.33601118,Porcentaje,21.017114,-98.348187,158,2484,1162,1322,628
+104,13,Hidalgo,11,Atlapexco,6207019020,Porcentaje de población de 15 años y más sin escolaridad,20.497835,17.53844042,Porcentaje,21.017114,-98.348187,158,2484,1162,1322,628
+105,13,Hidalgo,11,Atlapexco,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,83.044667,82.27320125,Porcentaje,21.017114,-98.348187,158,2484,1162,1322,628
+106,13,Hidalgo,11,Atlapexco,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,98.93089,97.59259259,Porcentaje,21.017114,-98.348187,158,2484,1162,1322,628
+107,13,Hidalgo,11,Atlapexco,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,95.836431,96.34525661,Porcentaje,21.017114,-98.348187,158,2484,1162,1322,628
+108,13,Hidalgo,11,Atlapexco,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,43.031785,51.66880616,Porcentaje,21.017114,-98.348187,158,2484,1162,1322,628
+109,13,Hidalgo,11,Atlapexco,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,55.46176,52.21718836,Porcentaje,21.017114,-98.348187,158,2484,1162,1322,628
+110,13,Hidalgo,12,Atotonilco el Grande,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,14.46557,18.06127529,Porcentaje,20.286882,-98.669062,2100,7261,3427,3834,1810
+111,13,Hidalgo,12,Atotonilco el Grande,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,8.1346351,11.16893696,Porcentaje,20.286882,-98.669062,2100,7261,3427,3834,1810
+112,13,Hidalgo,12,Atotonilco el Grande,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.1233299,0.144816038,Porcentaje,20.286882,-98.669062,2100,7261,3427,3834,1810
+113,13,Hidalgo,12,Atotonilco el Grande,6207019010,Porcentaje de población de 25 años y más alfabeta,87.928946,89.37939859,Porcentaje,20.286882,-98.669062,2100,7261,3427,3834,1810
+114,13,Hidalgo,12,Atotonilco el Grande,6207019020,Porcentaje de población de 15 años y más sin escolaridad,8.0215827,6.394533195,Porcentaje,20.286882,-98.669062,2100,7261,3427,3834,1810
+115,13,Hidalgo,12,Atotonilco el Grande,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,49.809886,58.75888817,Porcentaje,20.286882,-98.669062,2100,7261,3427,3834,1810
+116,13,Hidalgo,12,Atotonilco el Grande,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,98.595338,97.31386861,Porcentaje,20.286882,-98.669062,2100,7261,3427,3834,1810
+117,13,Hidalgo,12,Atotonilco el Grande,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,94.268293,93.11359623,Porcentaje,20.286882,-98.669062,2100,7261,3427,3834,1810
+118,13,Hidalgo,12,Atotonilco el Grande,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,36.254893,41.51712887,Porcentaje,20.286882,-98.669062,2100,7261,3427,3834,1810
+119,13,Hidalgo,12,Atotonilco el Grande,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,69.254882,64.23043852,Porcentaje,20.286882,-98.669062,2100,7261,3427,3834,1810
+120,13,Hidalgo,13,Atotonilco de Tula,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,25.711655,29.30125393,Porcentaje,20.007767,-99.220191,2157,8154,4003,4151,2056
+121,13,Hidalgo,13,Atotonilco de Tula,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,11.857853,15.29310116,Porcentaje,20.007767,-99.220191,2157,8154,4003,4151,2056
+122,13,Hidalgo,13,Atotonilco de Tula,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.1951758,0.132925695,Porcentaje,20.007767,-99.220191,2157,8154,4003,4151,2056
+123,13,Hidalgo,13,Atotonilco de Tula,6207019010,Porcentaje de población de 25 años y más alfabeta,94.280855,97.34053189,Porcentaje,20.007767,-99.220191,2157,8154,4003,4151,2056
+124,13,Hidalgo,13,Atotonilco de Tula,6207019020,Porcentaje de población de 15 años y más sin escolaridad,3.767262,1.900837432,Porcentaje,20.007767,-99.220191,2157,8154,4003,4151,2056
+125,13,Hidalgo,13,Atotonilco de Tula,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,65.475678,62.25029377,Porcentaje,20.007767,-99.220191,2157,8154,4003,4151,2056
+126,13,Hidalgo,13,Atotonilco de Tula,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,98.235041,97.00162075,Porcentaje,20.007767,-99.220191,2157,8154,4003,4151,2056
+127,13,Hidalgo,13,Atotonilco de Tula,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,97.373108,94.05726634,Porcentaje,20.007767,-99.220191,2157,8154,4003,4151,2056
+128,13,Hidalgo,13,Atotonilco de Tula,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,43.467681,46.96476162,Porcentaje,20.007767,-99.220191,2157,8154,4003,4151,2056
+129,13,Hidalgo,13,Atotonilco de Tula,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,58.468054,53.37188178,Porcentaje,20.007767,-99.220191,2157,8154,4003,4151,2056
+130,13,Hidalgo,14,Calnali,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,14.608582,16.3072551,Porcentaje,20.897178,-98.583532,924,4147,1972,2175,1036
+131,13,Hidalgo,14,Calnali,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,6.1578775,9.185891006,Porcentaje,20.897178,-98.583532,924,4147,1972,2175,1036
+132,13,Hidalgo,14,Calnali,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.3603013,0.208960214,Porcentaje,20.897178,-98.583532,924,4147,1972,2175,1036
+133,13,Hidalgo,14,Calnali,6207019010,Porcentaje de población de 25 años y más alfabeta,75.880676,78.61938733,Porcentaje,20.897178,-98.583532,924,4147,1972,2175,1036
+134,13,Hidalgo,14,Calnali,6207019020,Porcentaje de población de 15 años y más sin escolaridad,17.68752,14.51019726,Porcentaje,20.897178,-98.583532,924,4147,1972,2175,1036
+135,13,Hidalgo,14,Calnali,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,61.858974,71.35740971,Porcentaje,20.897178,-98.583532,924,4147,1972,2175,1036
+136,13,Hidalgo,14,Calnali,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,99.179207,98.73925501,Porcentaje,20.897178,-98.583532,924,4147,1972,2175,1036
+137,13,Hidalgo,14,Calnali,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,96.561086,95.7884427,Porcentaje,20.897178,-98.583532,924,4147,1972,2175,1036
+138,13,Hidalgo,14,Calnali,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,43.430962,53.49506579,Porcentaje,20.897178,-98.583532,924,4147,1972,2175,1036
+139,13,Hidalgo,14,Calnali,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,61.185719,59.78769642,Porcentaje,20.897178,-98.583532,924,4147,1972,2175,1036
+140,13,Hidalgo,15,Cardonal,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,16.502947,19.10222347,Porcentaje,20.613389,-99.117069,2048,659,314,345,170
+141,13,Hidalgo,15,Cardonal,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,8.546169,13.86519368,Porcentaje,20.613389,-99.117069,2048,659,314,345,170
+142,13,Hidalgo,15,Cardonal,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.2040199,0.083904349,Porcentaje,20.613389,-99.117069,2048,659,314,345,170
+143,13,Hidalgo,15,Cardonal,6207019010,Porcentaje de población de 25 años y más alfabeta,81.358579,87.28873866,Porcentaje,20.613389,-99.117069,2048,659,314,345,170
+144,13,Hidalgo,15,Cardonal,6207019020,Porcentaje de población de 15 años y más sin escolaridad,12.78525,8.970773318,Porcentaje,20.613389,-99.117069,2048,659,314,345,170
+145,13,Hidalgo,15,Cardonal,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,60.357143,72.8,Porcentaje,20.613389,-99.117069,2048,659,314,345,170
+146,13,Hidalgo,15,Cardonal,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,99.440037,98.395967,Porcentaje,20.613389,-99.117069,2048,659,314,345,170
+147,13,Hidalgo,15,Cardonal,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,98.886414,97.11090401,Porcentaje,20.613389,-99.117069,2048,659,314,345,170
+148,13,Hidalgo,15,Cardonal,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,42.536814,53.16993464,Porcentaje,20.613389,-99.117069,2048,659,314,345,170
+149,13,Hidalgo,15,Cardonal,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,61.961614,57.97790519,Porcentaje,20.613389,-99.117069,2048,659,314,345,170
+150,13,Hidalgo,16,Cuautepec de Hinojosa,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,16.229512,17.96071953,Porcentaje,20.03547,-98.309738,2242,18835,8705,10130,4696
+151,13,Hidalgo,16,Cuautepec de Hinojosa,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,6.5341809,9.586086637,Porcentaje,20.03547,-98.309738,2242,18835,8705,10130,4696
+152,13,Hidalgo,16,Cuautepec de Hinojosa,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.024354,0.080304699,Porcentaje,20.03547,-98.309738,2242,18835,8705,10130,4696
+153,13,Hidalgo,16,Cuautepec de Hinojosa,6207019010,Porcentaje de población de 25 años y más alfabeta,86.525035,89.48864495,Porcentaje,20.03547,-98.309738,2242,18835,8705,10130,4696
+154,13,Hidalgo,16,Cuautepec de Hinojosa,6207019020,Porcentaje de población de 15 años y más sin escolaridad,9.8658094,8.392988253,Porcentaje,20.03547,-98.309738,2242,18835,8705,10130,4696
+155,13,Hidalgo,16,Cuautepec de Hinojosa,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,51.935117,53.98734177,Porcentaje,20.03547,-98.309738,2242,18835,8705,10130,4696
+156,13,Hidalgo,16,Cuautepec de Hinojosa,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,98.38256,96.18650165,Porcentaje,20.03547,-98.309738,2242,18835,8705,10130,4696
+157,13,Hidalgo,16,Cuautepec de Hinojosa,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,93.891597,91.01497504,Porcentaje,20.03547,-98.309738,2242,18835,8705,10130,4696
+158,13,Hidalgo,16,Cuautepec de Hinojosa,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,34.462351,37.1659534,Porcentaje,20.03547,-98.309738,2242,18835,8705,10130,4696
+159,13,Hidalgo,16,Cuautepec de Hinojosa,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,67.346144,63.97990088,Porcentaje,20.03547,-98.309738,2242,18835,8705,10130,4696
+160,13,Hidalgo,17,Chapantongo,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,13.941635,17.75080403,Porcentaje,20.285316,-99.413231,2120,1839,878,961,503
+161,13,Hidalgo,17,Chapantongo,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,4.9970018,7.874260815,Porcentaje,20.285316,-99.413231,2120,1839,878,961,503
+162,13,Hidalgo,17,Chapantongo,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.119928,0.082996161,Porcentaje,20.285316,-99.413231,2120,1839,878,961,503
+163,13,Hidalgo,17,Chapantongo,6207019010,Porcentaje de población de 25 años y más alfabeta,86.221555,90.18954918,Porcentaje,20.285316,-99.413231,2120,1839,878,961,503
+164,13,Hidalgo,17,Chapantongo,6207019020,Porcentaje de población de 15 años y más sin escolaridad,8.1351189,6.152090466,Porcentaje,20.285316,-99.413231,2120,1839,878,961,503
+165,13,Hidalgo,17,Chapantongo,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,51.900393,60.06289308,Porcentaje,20.285316,-99.413231,2120,1839,878,961,503
+166,13,Hidalgo,17,Chapantongo,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,99.288026,95.59346127,Porcentaje,20.285316,-99.413231,2120,1839,878,961,503
+167,13,Hidalgo,17,Chapantongo,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,97.150259,94.24460432,Porcentaje,20.285316,-99.413231,2120,1839,878,961,503
+168,13,Hidalgo,17,Chapantongo,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,38.595618,43.20043692,Porcentaje,20.285316,-99.413231,2120,1839,878,961,503
+169,13,Hidalgo,17,Chapantongo,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,72.806316,68.13984853,Porcentaje,20.285316,-99.413231,2120,1839,878,961,503
+170,13,Hidalgo,18,Chapulhuacán,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,13.062418,16.61274266,Porcentaje,21.159418,-98.904588,922,4143,1968,2175,996
+171,13,Hidalgo,18,Chapulhuacán,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,5.3145809,7.485067198,Porcentaje,21.159418,-98.904588,922,4143,1968,2175,996
+172,13,Hidalgo,18,Chapulhuacán,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.2862655,0.180438029,Porcentaje,21.159418,-98.904588,922,4143,1968,2175,996
+173,13,Hidalgo,18,Chapulhuacán,6207019010,Porcentaje de población de 25 años y más alfabeta,78.090833,82.42018453,Porcentaje,21.159418,-98.904588,922,4143,1968,2175,996
+174,13,Hidalgo,18,Chapulhuacán,6207019020,Porcentaje de población de 15 años y más sin escolaridad,15.78194,13.20308611,Porcentaje,21.159418,-98.904588,922,4143,1968,2175,996
+175,13,Hidalgo,18,Chapulhuacán,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,63.556669,60.84381939,Porcentaje,21.159418,-98.904588,922,4143,1968,2175,996
+176,13,Hidalgo,18,Chapulhuacán,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,98.782715,97.17048711,Porcentaje,21.159418,-98.904588,922,4143,1968,2175,996
+177,13,Hidalgo,18,Chapulhuacán,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,94.567277,91.26420455,Porcentaje,21.159418,-98.904588,922,4143,1968,2175,996
+178,13,Hidalgo,18,Chapulhuacán,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,32.782962,32.62745098,Porcentaje,21.159418,-98.904588,922,4143,1968,2175,996
+179,13,Hidalgo,18,Chapulhuacán,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,65.554795,62.518666,Porcentaje,21.159418,-98.904588,922,4143,1968,2175,996
+180,13,Hidalgo,19,Chilcuautla,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,18.452473,20.87493715,Porcentaje,20.330962,-99.231747,1868,1174,574,600,312
+181,13,Hidalgo,19,Chilcuautla,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,10.086835,13.33955894,Porcentaje,20.330962,-99.231747,1868,1174,574,600,312
+182,13,Hidalgo,19,Chilcuautla,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.1473097,0.100567488,Porcentaje,20.330962,-99.231747,1868,1174,574,600,312
+183,13,Hidalgo,19,Chilcuautla,6207019010,Porcentaje de población de 25 años y más alfabeta,88.782743,90.46341689,Porcentaje,20.330962,-99.231747,1868,1174,574,600,312
+184,13,Hidalgo,19,Chilcuautla,6207019020,Porcentaje de población de 15 años y más sin escolaridad,7.0786168,6.019682494,Porcentaje,20.330962,-99.231747,1868,1174,574,600,312
+185,13,Hidalgo,19,Chilcuautla,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,63.138686,64.07185629,Porcentaje,20.330962,-99.231747,1868,1174,574,600,312
+186,13,Hidalgo,19,Chilcuautla,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,98.573466,98.56547894,Porcentaje,20.330962,-99.231747,1868,1174,574,600,312
+187,13,Hidalgo,19,Chilcuautla,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,97.644928,96.60678643,Porcentaje,20.330962,-99.231747,1868,1174,574,600,312
+188,13,Hidalgo,19,Chilcuautla,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,43.977237,53.8585209,Porcentaje,20.330962,-99.231747,1868,1174,574,600,312
+189,13,Hidalgo,19,Chilcuautla,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,64.234765,59.66525393,Porcentaje,20.330962,-99.231747,1868,1174,574,600,312
+190,13,Hidalgo,20,Eloxochitlán,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,12.605459,16.27791563,Porcentaje,20.746718,-98.809141,1957,612,298,314,189
+191,13,Hidalgo,20,Eloxochitlán,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,2.5310174,3.920595533,Porcentaje,20.746718,-98.809141,1957,612,298,314,189
+192,13,Hidalgo,20,Eloxochitlán,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.4962779,0,Porcentaje,20.746718,-98.809141,1957,612,298,314,189
+193,13,Hidalgo,20,Eloxochitlán,6207019010,Porcentaje de población de 25 años y más alfabeta,81.528279,86.52729384,Porcentaje,20.746718,-98.809141,1957,612,298,314,189
+194,13,Hidalgo,20,Eloxochitlán,6207019020,Porcentaje de población de 15 años y más sin escolaridad,11.662531,9.776674938,Porcentaje,20.746718,-98.809141,1957,612,298,314,189
+195,13,Hidalgo,20,Eloxochitlán,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,56.060606,54.12844037,Porcentaje,20.746718,-98.809141,1957,612,298,314,189
+196,13,Hidalgo,20,Eloxochitlán,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,98.22695,95.29411765,Porcentaje,20.746718,-98.809141,1957,612,298,314,189
+197,13,Hidalgo,20,Eloxochitlán,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,98.214286,94.61538462,Porcentaje,20.746718,-98.809141,1957,612,298,314,189
+198,13,Hidalgo,20,Eloxochitlán,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,41.359773,46.07508532,Porcentaje,20.746718,-98.809141,1957,612,298,314,189
+199,13,Hidalgo,20,Eloxochitlán,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,72.704715,70.0248139,Porcentaje,20.746718,-98.809141,1957,612,298,314,189
+200,13,Hidalgo,21,Emiliano Zapata,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,24.136321,26.01120644,Porcentaje,19.657008,-98.547416,2494,8722,4106,4616,2249
+201,13,Hidalgo,21,Emiliano Zapata,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,11.325864,14.34074593,Porcentaje,19.657008,-98.547416,2494,8722,4106,4616,2249
+202,13,Hidalgo,21,Emiliano Zapata,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.2987862,0.10506041,Porcentaje,19.657008,-98.547416,2494,8722,4106,4616,2249
+203,13,Hidalgo,21,Emiliano Zapata,6207019010,Porcentaje de población de 25 años y más alfabeta,93.568819,95.62183455,Porcentaje,19.657008,-98.547416,2494,8722,4106,4616,2249
+204,13,Hidalgo,21,Emiliano Zapata,6207019020,Porcentaje de población de 15 años y más sin escolaridad,4.7432306,3.852215024,Porcentaje,19.657008,-98.547416,2494,8722,4106,4616,2249
+205,13,Hidalgo,21,Emiliano Zapata,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,62.763158,63.83265857,Porcentaje,19.657008,-98.547416,2494,8722,4106,4616,2249
+206,13,Hidalgo,21,Emiliano Zapata,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,98.816234,96.50937298,Porcentaje,19.657008,-98.547416,2494,8722,4106,4616,2249
+207,13,Hidalgo,21,Emiliano Zapata,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,96.986607,94.32624113,Porcentaje,19.657008,-98.547416,2494,8722,4106,4616,2249
+208,13,Hidalgo,21,Emiliano Zapata,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,45.6,49.15254237,Porcentaje,19.657008,-98.547416,2494,8722,4106,4616,2249
+209,13,Hidalgo,21,Emiliano Zapata,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,59.495798,55.69077219,Porcentaje,19.657008,-98.547416,2494,8722,4106,4616,2249
+210,13,Hidalgo,22,Epazoyucan,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,20.763544,23.10853275,Porcentaje,20.018022,-98.636209,2458,3168,1491,1677,899
+211,13,Hidalgo,22,Epazoyucan,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,11.668382,13.62501007,Porcentaje,20.018022,-98.636209,2458,3168,1491,1677,899
+212,13,Hidalgo,22,Epazoyucan,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.1590718,0.185319475,Porcentaje,20.018022,-98.636209,2458,3168,1491,1677,899
+213,13,Hidalgo,22,Epazoyucan,6207019010,Porcentaje de población de 25 años y más alfabeta,93.5716,94.74824598,Porcentaje,20.018022,-98.636209,2458,3168,1491,1677,899
+214,13,Hidalgo,22,Epazoyucan,6207019020,Porcentaje de población de 15 años y más sin escolaridad,5.5768691,4.786076867,Porcentaje,20.018022,-98.636209,2458,3168,1491,1677,899
+215,13,Hidalgo,22,Epazoyucan,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,64.987406,62.72965879,Porcentaje,20.018022,-98.636209,2458,3168,1491,1677,899
+216,13,Hidalgo,22,Epazoyucan,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,98.220859,95.25569932,Porcentaje,20.018022,-98.636209,2458,3168,1491,1677,899
+217,13,Hidalgo,22,Epazoyucan,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,96.491228,91.16022099,Porcentaje,20.018022,-98.636209,2458,3168,1491,1677,899
+218,13,Hidalgo,22,Epazoyucan,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,44.699872,47.88525193,Porcentaje,20.018022,-98.636209,2458,3168,1491,1677,899
+219,13,Hidalgo,22,Epazoyucan,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,61.832132,58.29506083,Porcentaje,20.018022,-98.636209,2458,3168,1491,1677,899
+220,13,Hidalgo,23,Francisco I. Madero,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,20.499924,22.32974521,Porcentaje,20.245186,-99.088894,1975,11084,5263,5821,2664
+221,13,Hidalgo,23,Francisco I. Madero,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,23.324762,26.33467435,Porcentaje,20.245186,-99.088894,1975,11084,5263,5821,2664
+222,13,Hidalgo,23,Francisco I. Madero,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.4613523,0.260954659,Porcentaje,20.245186,-99.088894,1975,11084,5263,5821,2664
+223,13,Hidalgo,23,Francisco I. Madero,6207019010,Porcentaje de población de 25 años y más alfabeta,91.873578,93.9031763,Porcentaje,20.245186,-99.088894,1975,11084,5263,5821,2664
+224,13,Hidalgo,23,Francisco I. Madero,6207019020,Porcentaje de población de 15 años y más sin escolaridad,5.4114355,3.885324925,Porcentaje,20.245186,-99.088894,1975,11084,5263,5821,2664
+225,13,Hidalgo,23,Francisco I. Madero,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,58.569223,60.21003501,Porcentaje,20.245186,-99.088894,1975,11084,5263,5821,2664
+226,13,Hidalgo,23,Francisco I. Madero,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,97.798742,97.79255319,Porcentaje,20.245186,-99.088894,1975,11084,5263,5821,2664
+227,13,Hidalgo,23,Francisco I. Madero,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,96.958946,96.66837519,Porcentaje,20.245186,-99.088894,1975,11084,5263,5821,2664
+228,13,Hidalgo,23,Francisco I. Madero,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,54.640876,59.92115637,Porcentaje,20.245186,-99.088894,1975,11084,5263,5821,2664
+229,13,Hidalgo,23,Francisco I. Madero,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,50.302526,47.18930086,Porcentaje,20.245186,-99.088894,1975,11084,5263,5821,2664
+230,13,Hidalgo,24,Huasca de Ocampo,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,14.128855,17.00832799,Porcentaje,20.203611,-98.577615,2098,538,279,259,138
+231,13,Hidalgo,24,Huasca de Ocampo,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,7.7829808,8.287956438,Porcentaje,20.203611,-98.577615,2098,538,279,259,138
+232,13,Hidalgo,24,Huasca de Ocampo,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.0807363,0.15214606,Porcentaje,20.203611,-98.577615,2098,538,279,259,138
+233,13,Hidalgo,24,Huasca de Ocampo,6207019010,Porcentaje de población de 25 años y más alfabeta,88.307592,90.69434503,Porcentaje,20.203611,-98.577615,2098,538,279,259,138
+234,13,Hidalgo,24,Huasca de Ocampo,6207019020,Porcentaje de población de 15 años y más sin escolaridad,6.1924754,6.189942345,Porcentaje,20.203611,-98.577615,2098,538,279,259,138
+235,13,Hidalgo,24,Huasca de Ocampo,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,65.38132,58.64509606,Porcentaje,20.203611,-98.577615,2098,538,279,259,138
+236,13,Hidalgo,24,Huasca de Ocampo,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,98.049732,96.09015639,Porcentaje,20.203611,-98.577615,2098,538,279,259,138
+237,13,Hidalgo,24,Huasca de Ocampo,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,95.495495,89.32419197,Porcentaje,20.203611,-98.577615,2098,538,279,259,138
+238,13,Hidalgo,24,Huasca de Ocampo,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,32.988722,39.57179771,Porcentaje,20.203611,-98.577615,2098,538,279,259,138
+239,13,Hidalgo,24,Huasca de Ocampo,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,71.814952,68.36162716,Porcentaje,20.203611,-98.577615,2098,538,279,259,138
+240,13,Hidalgo,25,Huautla,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,18.01738,19.02106969,Porcentaje,21.031387,-98.286821,520,3755,1757,1998,886
+241,13,Hidalgo,25,Huautla,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,7.7309302,9.782820097,Porcentaje,21.031387,-98.286821,520,3755,1757,1998,886
+242,13,Hidalgo,25,Huautla,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.334728,0.317666126,Porcentaje,21.031387,-98.286821,520,3755,1757,1998,886
+243,13,Hidalgo,25,Huautla,6207019010,Porcentaje de población de 25 años y más alfabeta,76.348417,79.6839194,Porcentaje,21.031387,-98.286821,520,3755,1757,1998,886
+244,13,Hidalgo,25,Huautla,6207019020,Porcentaje de población de 15 años y más sin escolaridad,14.927583,13.25769854,Porcentaje,21.031387,-98.286821,520,3755,1757,1998,886
+245,13,Hidalgo,25,Huautla,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,84.200743,87.73195876,Porcentaje,21.031387,-98.286821,520,3755,1757,1998,886
+246,13,Hidalgo,25,Huautla,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,99.340206,98.50948509,Porcentaje,21.031387,-98.286821,520,3755,1757,1998,886
+247,13,Hidalgo,25,Huautla,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,99.620349,98.23434992,Porcentaje,21.031387,-98.286821,520,3755,1757,1998,886
+248,13,Hidalgo,25,Huautla,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,53.412256,58.12274368,Porcentaje,21.031387,-98.286821,520,3755,1757,1998,886
+249,13,Hidalgo,25,Huautla,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,58.989379,57.62074554,Porcentaje,21.031387,-98.286821,520,3755,1757,1998,886
+250,13,Hidalgo,26,Huazalingo,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,12.103263,17.07126949,Porcentaje,20.980303,-98.507748,903,842,410,432,191
+251,13,Hidalgo,26,Huazalingo,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,2.5480554,6.169265033,Porcentaje,20.980303,-98.507748,903,842,410,432,191
+252,13,Hidalgo,26,Huazalingo,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,16.461779,0.077951002,Porcentaje,20.980303,-98.507748,903,842,410,432,191
+253,13,Hidalgo,26,Huazalingo,6207019010,Porcentaje de población de 25 años y más alfabeta,68.499561,76.39816051,Porcentaje,20.980303,-98.507748,903,842,410,432,191
+254,13,Hidalgo,26,Huazalingo,6207019020,Porcentaje de población de 15 años y más sin escolaridad,3.8109075,15.12249443,Porcentaje,20.980303,-98.507748,903,842,410,432,191
+255,13,Hidalgo,26,Huazalingo,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,78.285078,83.88017118,Porcentaje,20.980303,-98.507748,903,842,410,432,191
+256,13,Hidalgo,26,Huazalingo,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,98.999545,98.5942492,Porcentaje,20.980303,-98.507748,903,842,410,432,191
+257,13,Hidalgo,26,Huazalingo,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,96.106195,96.26373626,Porcentaje,20.980303,-98.507748,903,842,410,432,191
+258,13,Hidalgo,26,Huazalingo,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,42.654028,45.06476105,Porcentaje,20.980303,-98.507748,903,842,410,432,191
+259,13,Hidalgo,26,Huazalingo,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,65.075995,61.55902004,Porcentaje,20.980303,-98.507748,903,842,410,432,191
+260,13,Hidalgo,27,Huehuetla,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,12.546995,16.53388896,Porcentaje,20.460306,-98.078424,424,2821,1324,1497,693
+261,13,Hidalgo,27,Huehuetla,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,4.7977106,8.119867631,Porcentaje,20.460306,-98.078424,424,2821,1324,1497,693
+262,13,Hidalgo,27,Huehuetla,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.1458953,0.055153818,Porcentaje,20.460306,-98.078424,424,2821,1324,1497,693
+263,13,Hidalgo,27,Huehuetla,6207019010,Porcentaje de población de 25 años y más alfabeta,61.945405,66.62148154,Porcentaje,20.460306,-98.078424,424,2821,1324,1497,693
+264,13,Hidalgo,27,Huehuetla,6207019020,Porcentaje de población de 15 años y más sin escolaridad,28.73015,24.42088491,Porcentaje,20.460306,-98.078424,424,2821,1324,1497,693
+265,13,Hidalgo,27,Huehuetla,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,67.588113,72.53184713,Porcentaje,20.460306,-98.078424,424,2821,1324,1497,693
+266,13,Hidalgo,27,Huehuetla,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,97.870453,98.00451807,Porcentaje,20.460306,-98.078424,424,2821,1324,1497,693
+267,13,Hidalgo,27,Huehuetla,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,93.454724,91.74122505,Porcentaje,20.460306,-98.078424,424,2821,1324,1497,693
+268,13,Hidalgo,27,Huehuetla,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,39.834515,43.28832407,Porcentaje,20.460306,-98.078424,424,2821,1324,1497,693
+269,13,Hidalgo,27,Huehuetla,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,53.779249,50.87020468,Porcentaje,20.460306,-98.078424,424,2821,1324,1497,693
+270,13,Hidalgo,28,Huejutla de Reyes,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,17.318907,18.78210736,Porcentaje,21.139212,-98.420595,141,40015,19077,20938,9626
+271,13,Hidalgo,28,Huejutla de Reyes,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,16.762733,18.18314377,Porcentaje,21.139212,-98.420595,141,40015,19077,20938,9626
+272,13,Hidalgo,28,Huejutla de Reyes,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,14.149279,0.125625322,Porcentaje,21.139212,-98.420595,141,40015,19077,20938,9626
+273,13,Hidalgo,28,Huejutla de Reyes,6207019010,Porcentaje de población de 25 años y más alfabeta,74.055336,79.09143687,Porcentaje,21.139212,-98.420595,141,40015,19077,20938,9626
+274,13,Hidalgo,28,Huejutla de Reyes,6207019020,Porcentaje de población de 15 años y más sin escolaridad,2.4415456,14.42896561,Porcentaje,21.139212,-98.420595,141,40015,19077,20938,9626
+275,13,Hidalgo,28,Huejutla de Reyes,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,72.391574,74.43388314,Porcentaje,21.139212,-98.420595,141,40015,19077,20938,9626
+276,13,Hidalgo,28,Huejutla de Reyes,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,98.725768,97.64886277,Porcentaje,21.139212,-98.420595,141,40015,19077,20938,9626
+277,13,Hidalgo,28,Huejutla de Reyes,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,95.875192,93.8463451,Porcentaje,21.139212,-98.420595,141,40015,19077,20938,9626
+278,13,Hidalgo,28,Huejutla de Reyes,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,46.748548,49.82719463,Porcentaje,21.139212,-98.420595,141,40015,19077,20938,9626
+279,13,Hidalgo,28,Huejutla de Reyes,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,49.327536,48.48015793,Porcentaje,21.139212,-98.420595,141,40015,19077,20938,9626
+280,13,Hidalgo,29,Huichapan,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,16.549443,19.59180207,Porcentaje,20.375313,-99.651181,2109,9051,4262,4789,2405
+281,13,Hidalgo,29,Huichapan,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,10.511414,12.98477042,Porcentaje,20.375313,-99.651181,2109,9051,4262,4789,2405
+282,13,Hidalgo,29,Huichapan,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.2443822,0.14153881,Porcentaje,20.375313,-99.651181,2109,9051,4262,4789,2405
+283,13,Hidalgo,29,Huichapan,6207019010,Porcentaje de población de 25 años y más alfabeta,91.28642,93.79342622,Porcentaje,20.375313,-99.651181,2109,9051,4262,4789,2405
+284,13,Hidalgo,29,Huichapan,6207019020,Porcentaje de población de 15 años y más sin escolaridad,5.0366573,4.03668686,Porcentaje,20.375313,-99.651181,2109,9051,4262,4789,2405
+285,13,Hidalgo,29,Huichapan,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,61.763543,60.09298721,Porcentaje,20.375313,-99.651181,2109,9051,4262,4789,2405
+286,13,Hidalgo,29,Huichapan,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,99.30528,98.04703069,Porcentaje,20.375313,-99.651181,2109,9051,4262,4789,2405
+287,13,Hidalgo,29,Huichapan,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,96.110696,95.56550041,Porcentaje,20.375313,-99.651181,2109,9051,4262,4789,2405
+288,13,Hidalgo,29,Huichapan,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,40.079011,48.93363359,Porcentaje,20.375313,-99.651181,2109,9051,4262,4789,2405
+289,13,Hidalgo,29,Huichapan,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,67.658103,63.24520183,Porcentaje,20.375313,-99.651181,2109,9051,4262,4789,2405
+290,13,Hidalgo,30,Ixmiquilpan,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,21.063897,22.69783824,Porcentaje,20.484868,-99.218774,1682,34814,16196,18618,8923
+291,13,Hidalgo,30,Ixmiquilpan,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,16.700843,18.98720135,Porcentaje,20.484868,-99.218774,1682,34814,16196,18618,8923
+292,13,Hidalgo,30,Ixmiquilpan,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.3457514,0.110930848,Porcentaje,20.484868,-99.218774,1682,34814,16196,18618,8923
+293,13,Hidalgo,30,Ixmiquilpan,6207019010,Porcentaje de población de 25 años y más alfabeta,89.108251,91.9810227,Porcentaje,20.484868,-99.218774,1682,34814,16196,18618,8923
+294,13,Hidalgo,30,Ixmiquilpan,6207019020,Porcentaje de población de 15 años y más sin escolaridad,6.8312104,5.610327662,Porcentaje,20.484868,-99.218774,1682,34814,16196,18618,8923
+295,13,Hidalgo,30,Ixmiquilpan,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,67.329922,69.24428822,Porcentaje,20.484868,-99.218774,1682,34814,16196,18618,8923
+296,13,Hidalgo,30,Ixmiquilpan,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,99.70954,98.04740714,Porcentaje,20.484868,-99.218774,1682,34814,16196,18618,8923
+297,13,Hidalgo,30,Ixmiquilpan,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,97.73903,95.69892473,Porcentaje,20.484868,-99.218774,1682,34814,16196,18618,8923
+298,13,Hidalgo,30,Ixmiquilpan,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,48.678134,50.56697819,Porcentaje,20.484868,-99.218774,1682,34814,16196,18618,8923
+299,13,Hidalgo,30,Ixmiquilpan,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,55.058299,52.5937019,Porcentaje,20.484868,-99.218774,1682,34814,16196,18618,8923
+300,13,Hidalgo,31,Jacala de Ledezma,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,13.786113,17.14162349,Porcentaje,21.008296,-99.188569,1333,4415,2083,2332,1138
+301,13,Hidalgo,31,Jacala de Ledezma,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,6.0111505,9.736614853,Porcentaje,21.008296,-99.188569,1333,4415,2083,2332,1138
+302,13,Hidalgo,31,Jacala de Ledezma,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.9427268,0.118739206,Porcentaje,21.008296,-99.188569,1333,4415,2083,2332,1138
+303,13,Hidalgo,31,Jacala de Ledezma,6207019010,Porcentaje de población de 25 años y más alfabeta,79.187224,86.01258198,Porcentaje,21.008296,-99.188569,1333,4415,2083,2332,1138
+304,13,Hidalgo,31,Jacala de Ledezma,6207019020,Porcentaje de población de 15 años y más sin escolaridad,15.438419,10.72970639,Porcentaje,21.008296,-99.188569,1333,4415,2083,2332,1138
+305,13,Hidalgo,31,Jacala de Ledezma,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,61.155914,56.660746,Porcentaje,21.008296,-99.188569,1333,4415,2083,2332,1138
+306,13,Hidalgo,31,Jacala de Ledezma,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,99.026426,98.38585703,Porcentaje,21.008296,-99.188569,1333,4415,2083,2332,1138
+307,13,Hidalgo,31,Jacala de Ledezma,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,96.072931,93.7784522,Porcentaje,21.008296,-99.188569,1333,4415,2083,2332,1138
+308,13,Hidalgo,31,Jacala de Ledezma,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,29.126214,40.4350251,Porcentaje,21.008296,-99.188569,1333,4415,2083,2332,1138
+309,13,Hidalgo,31,Jacala de Ledezma,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,63.821591,62.27331606,Porcentaje,21.008296,-99.188569,1333,4415,2083,2332,1138
+310,13,Hidalgo,32,Jaltocán,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,14.474964,16.48394675,Porcentaje,21.133132,-98.538324,199,6201,3083,3118,1382
+311,13,Hidalgo,32,Jaltocán,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,9.2124453,12.0073088,Porcentaje,21.133132,-98.538324,199,6201,3083,3118,1382
+312,13,Hidalgo,32,Jaltocán,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,21.949441,0.078308536,Porcentaje,21.133132,-98.538324,199,6201,3083,3118,1382
+313,13,Hidalgo,32,Jaltocán,6207019010,Porcentaje de población de 25 años y más alfabeta,65.512289,71.56203901,Porcentaje,21.133132,-98.538324,199,6201,3083,3118,1382
+314,13,Hidalgo,32,Jaltocán,6207019020,Porcentaje de población de 15 años y más sin escolaridad,3.2207098,21.75672148,Porcentaje,21.133132,-98.538324,199,6201,3083,3118,1382
+315,13,Hidalgo,32,Jaltocán,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,86.074271,85.48951049,Porcentaje,21.133132,-98.538324,199,6201,3083,3118,1382
+316,13,Hidalgo,32,Jaltocán,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,98.74739,97.65494137,Porcentaje,21.133132,-98.538324,199,6201,3083,3118,1382
+317,13,Hidalgo,32,Jaltocán,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,96.200814,94.25465839,Porcentaje,21.133132,-98.538324,199,6201,3083,3118,1382
+318,13,Hidalgo,32,Jaltocán,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,44.138634,53.5554132,Porcentaje,21.133132,-98.538324,199,6201,3083,3118,1382
+319,13,Hidalgo,32,Jaltocán,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,51.14244,49.67371443,Porcentaje,21.133132,-98.538324,199,6201,3083,3118,1382
+320,13,Hidalgo,33,Juárez Hidalgo,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,11.597473,14.81312671,Porcentaje,20.783717,-98.828861,1605,735,338,397,234
+321,13,Hidalgo,33,Juárez Hidalgo,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,3.7454874,4.694621696,Porcentaje,20.783717,-98.828861,1605,735,338,397,234
+322,13,Hidalgo,33,Juárez Hidalgo,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.1805054,0.31905196,Porcentaje,20.783717,-98.828861,1605,735,338,397,234
+323,13,Hidalgo,33,Juárez Hidalgo,6207019010,Porcentaje de población de 25 años y más alfabeta,80.414621,84.93377483,Porcentaje,20.783717,-98.828861,1605,735,338,397,234
+324,13,Hidalgo,33,Juárez Hidalgo,6207019020,Porcentaje de población de 15 años y más sin escolaridad,14.259928,10.39197812,Porcentaje,20.783717,-98.828861,1605,735,338,397,234
+325,13,Hidalgo,33,Juárez Hidalgo,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,60.736196,58.04195804,Porcentaje,20.783717,-98.828861,1605,735,338,397,234
+326,13,Hidalgo,33,Juárez Hidalgo,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,99.222798,97.30639731,Porcentaje,20.783717,-98.828861,1605,735,338,397,234
+327,13,Hidalgo,33,Juárez Hidalgo,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,98.058252,94.85714286,Porcentaje,20.783717,-98.828861,1605,735,338,397,234
+328,13,Hidalgo,33,Juárez Hidalgo,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,34.203655,46.07329843,Porcentaje,20.783717,-98.828861,1605,735,338,397,234
+329,13,Hidalgo,33,Juárez Hidalgo,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,70.216606,69.78122151,Porcentaje,20.783717,-98.828861,1605,735,338,397,234
+330,13,Hidalgo,34,Lolotla,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,19.107116,20.88222189,Porcentaje,20.841164,-98.717289,1601,703,338,365,188
+331,13,Hidalgo,34,Lolotla,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,8.3193661,8.213277885,Porcentaje,20.841164,-98.717289,1601,703,338,365,188
+332,13,Hidalgo,34,Lolotla,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.3047387,0.074261102,Porcentaje,20.841164,-98.717289,1601,703,338,365,188
+333,13,Hidalgo,34,Lolotla,6207019010,Porcentaje de población de 25 años y más alfabeta,76.94275,82.48024087,Porcentaje,20.841164,-98.717289,1601,703,338,365,188
+334,13,Hidalgo,34,Lolotla,6207019020,Porcentaje de población de 15 años y más sin escolaridad,14.551272,11.98574187,Porcentaje,20.841164,-98.717289,1601,703,338,365,188
+335,13,Hidalgo,34,Lolotla,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,77.051926,80.31914894,Porcentaje,20.841164,-98.717289,1601,703,338,365,188
+336,13,Hidalgo,34,Lolotla,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,98.592715,98.02513465,Porcentaje,20.841164,-98.717289,1601,703,338,365,188
+337,13,Hidalgo,34,Lolotla,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,96.97479,96.63716814,Porcentaje,20.841164,-98.717289,1601,703,338,365,188
+338,13,Hidalgo,34,Lolotla,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,44.72973,49.75334743,Porcentaje,20.841164,-98.717289,1601,703,338,365,188
+339,13,Hidalgo,34,Lolotla,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,57.717507,58.84449725,Porcentaje,20.841164,-98.717289,1601,703,338,365,188
+340,13,Hidalgo,35,Metepec,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,15.040953,18.04006497,Porcentaje,20.23841,-98.322164,2147,2090,982,1108,479
+341,13,Hidalgo,35,Metepec,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,6.4035741,9.388197076,Porcentaje,20.23841,-98.322164,2147,2090,982,1108,479
+342,13,Hidalgo,35,Metepec,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.1116902,0.129940444,Porcentaje,20.23841,-98.322164,2147,2090,982,1108,479
+343,13,Hidalgo,35,Metepec,6207019010,Porcentaje de población de 25 años y más alfabeta,87.290089,90.8443685,Porcentaje,20.23841,-98.322164,2147,2090,982,1108,479
+344,13,Hidalgo,35,Metepec,6207019020,Porcentaje de población de 15 años y más sin escolaridad,8.7242492,7.287493232,Porcentaje,20.23841,-98.322164,2147,2090,982,1108,479
+345,13,Hidalgo,35,Metepec,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,49.363868,51.96629213,Porcentaje,20.23841,-98.322164,2147,2090,982,1108,479
+346,13,Hidalgo,35,Metepec,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,99.47541,97.125,Porcentaje,20.23841,-98.322164,2147,2090,982,1108,479
+347,13,Hidalgo,35,Metepec,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,95.207254,92.05776173,Porcentaje,20.23841,-98.322164,2147,2090,982,1108,479
+348,13,Hidalgo,35,Metepec,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,32.66129,40.00904159,Porcentaje,20.23841,-98.322164,2147,2090,982,1108,479
+349,13,Hidalgo,35,Metepec,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,69.719533,65.15430428,Porcentaje,20.23841,-98.322164,2147,2090,982,1108,479
+350,13,Hidalgo,36,San Agustín Metzquititlán,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,14.393187,18.04624436,Porcentaje,20.532602,-98.638621,1365,1673,815,858,432
+351,13,Hidalgo,36,San Agustín Metzquititlán,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,6.1178141,9.891914079,Porcentaje,20.532602,-98.638621,1365,1673,815,858,432
+352,13,Hidalgo,36,San Agustín Metzquititlán,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.212917,0.082090573,Porcentaje,20.532602,-98.638621,1365,1673,815,858,432
+353,13,Hidalgo,36,San Agustín Metzquititlán,6207019010,Porcentaje de población de 25 años y más alfabeta,89.852528,93.21428571,Porcentaje,20.532602,-98.638621,1365,1673,815,858,432
+354,13,Hidalgo,36,San Agustín Metzquititlán,6207019020,Porcentaje de población de 15 años y más sin escolaridad,6.330731,4.843343823,Porcentaje,20.532602,-98.638621,1365,1673,815,858,432
+355,13,Hidalgo,36,San Agustín Metzquititlán,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,62.052506,62.06896552,Porcentaje,20.532602,-98.638621,1365,1673,815,858,432
+356,13,Hidalgo,36,San Agustín Metzquititlán,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,99.313052,96.12403101,Porcentaje,20.532602,-98.638621,1365,1673,815,858,432
+357,13,Hidalgo,36,San Agustín Metzquititlán,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,97.26776,94.65346535,Porcentaje,20.532602,-98.638621,1365,1673,815,858,432
+358,13,Hidalgo,36,San Agustín Metzquititlán,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,43.143069,49.61511547,Porcentaje,20.532602,-98.638621,1365,1673,815,858,432
+359,13,Hidalgo,36,San Agustín Metzquititlán,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,72.945351,67.13640717,Porcentaje,20.532602,-98.638621,1365,1673,815,858,432
+360,13,Hidalgo,37,Metztitlán,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,12.175029,14.24345418,Porcentaje,20.5947,-98.764144,1302,3125,1435,1690,851
+361,13,Hidalgo,37,Metztitlán,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,5.4966574,8.710976838,Porcentaje,20.5947,-98.764144,1302,3125,1435,1690,851
+362,13,Hidalgo,37,Metztitlán,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.0607739,0.075528701,Porcentaje,20.5947,-98.764144,1302,3125,1435,1690,851
+363,13,Hidalgo,37,Metztitlán,6207019010,Porcentaje de población de 25 años y más alfabeta,83.308233,87.1050784,Porcentaje,20.5947,-98.764144,1302,3125,1435,1690,851
+364,13,Hidalgo,37,Metztitlán,6207019020,Porcentaje de población de 15 años y más sin escolaridad,11.891417,8.666918429,Porcentaje,20.5947,-98.764144,1302,3125,1435,1690,851
+365,13,Hidalgo,37,Metztitlán,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,67.744917,65.49948507,Porcentaje,20.5947,-98.764144,1302,3125,1435,1690,851
+366,13,Hidalgo,37,Metztitlán,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,98.955495,97.93233083,Porcentaje,20.5947,-98.764144,1302,3125,1435,1690,851
+367,13,Hidalgo,37,Metztitlán,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,94.003527,94.52780229,Porcentaje,20.5947,-98.764144,1302,3125,1435,1690,851
+368,13,Hidalgo,37,Metztitlán,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,38.816941,44.0208537,Porcentaje,20.5947,-98.764144,1302,3125,1435,1690,851
+369,13,Hidalgo,37,Metztitlán,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,70.376123,68.30312185,Porcentaje,20.5947,-98.764144,1302,3125,1435,1690,851
+370,13,Hidalgo,38,Mineral del Chico,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,17.342161,22.06223874,Porcentaje,20.215571,-98.731229,2354,481,226,255,140
+371,13,Hidalgo,38,Mineral del Chico,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,5.6838366,9.846725499,Porcentaje,20.215571,-98.731229,2354,481,226,255,140
+372,13,Hidalgo,38,Mineral del Chico,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.0645891,0.092893637,Porcentaje,20.215571,-98.731229,2354,481,226,255,140
+373,13,Hidalgo,38,Mineral del Chico,6207019010,Porcentaje de población de 25 años y más alfabeta,84.760093,88.87093516,Porcentaje,20.215571,-98.731229,2354,481,226,255,140
+374,13,Hidalgo,38,Mineral del Chico,6207019020,Porcentaje de población de 15 años y más sin escolaridad,9.8175359,6.967022759,Porcentaje,20.215571,-98.731229,2354,481,226,255,140
+375,13,Hidalgo,38,Mineral del Chico,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,66.118421,60.07905138,Porcentaje,20.215571,-98.731229,2354,481,226,255,140
+376,13,Hidalgo,38,Mineral del Chico,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,99.05417,96.92460317,Porcentaje,20.215571,-98.731229,2354,481,226,255,140
+377,13,Hidalgo,38,Mineral del Chico,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,98.137803,96.42147117,Porcentaje,20.215571,-98.731229,2354,481,226,255,140
+378,13,Hidalgo,38,Mineral del Chico,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,37.619699,45.22546419,Porcentaje,20.215571,-98.731229,2354,481,226,255,140
+379,13,Hidalgo,38,Mineral del Chico,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,67.091878,61.03111937,Porcentaje,20.215571,-98.731229,2354,481,226,255,140
+380,13,Hidalgo,39,Mineral del Monte,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,23.650009,25.48273049,Porcentaje,20.140491,-98.67153,2718,11015,5192,5823,2701
+381,13,Hidalgo,39,Mineral del Monte,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,13.719568,17.49614722,Porcentaje,20.140491,-98.67153,2718,11015,5192,5823,2701
+382,13,Hidalgo,39,Mineral del Monte,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.2013546,0.163176503,Porcentaje,20.140491,-98.67153,2718,11015,5192,5823,2701
+383,13,Hidalgo,39,Mineral del Monte,6207019010,Porcentaje de población de 25 años y más alfabeta,95.196717,95.9824013,Porcentaje,20.140491,-98.67153,2718,11015,5192,5823,2701
+384,13,Hidalgo,39,Mineral del Monte,6207019020,Porcentaje de población de 15 años y más sin escolaridad,3.1393008,2.31166712,Porcentaje,20.140491,-98.67153,2718,11015,5192,5823,2701
+385,13,Hidalgo,39,Mineral del Monte,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,59.064327,60.60126582,Porcentaje,20.140491,-98.67153,2718,11015,5192,5823,2701
+386,13,Hidalgo,39,Mineral del Monte,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,98.922004,96.55172414,Porcentaje,20.140491,-98.67153,2718,11015,5192,5823,2701
+387,13,Hidalgo,39,Mineral del Monte,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,98.675497,95.83333333,Porcentaje,20.140491,-98.67153,2718,11015,5192,5823,2701
+388,13,Hidalgo,39,Mineral del Monte,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,45.340909,47.7443609,Porcentaje,20.140491,-98.67153,2718,11015,5192,5823,2701
+389,13,Hidalgo,39,Mineral del Monte,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,59.289768,54.54627867,Porcentaje,20.140491,-98.67153,2718,11015,5192,5823,2701
+390,13,Hidalgo,40,La Misión,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,8.4774357,11.30193906,Porcentaje,21.099419,-99.123187,1497,501,228,273,137
+391,13,Hidalgo,40,La Misión,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,1.8698158,2.700831025,Porcentaje,21.099419,-99.123187,1497,501,228,273,137
+392,13,Hidalgo,40,La Misión,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.3092928,0.096952909,Porcentaje,21.099419,-99.123187,1497,501,228,273,137
+393,13,Hidalgo,40,La Misión,6207019010,Porcentaje de población de 25 años y más alfabeta,70.56325,75.78781513,Porcentaje,21.099419,-99.123187,1497,501,228,273,137
+394,13,Hidalgo,40,La Misión,6207019020,Porcentaje de población de 15 años y más sin escolaridad,19.35892,16.14958449,Porcentaje,21.099419,-99.123187,1497,501,228,273,137
+395,13,Hidalgo,40,La Misión,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,64.620939,49.9009901,Porcentaje,21.099419,-99.123187,1497,501,228,273,137
+396,13,Hidalgo,40,La Misión,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,98.486056,98.35466179,Porcentaje,21.099419,-99.123187,1497,501,228,273,137
+397,13,Hidalgo,40,La Misión,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,93.848355,87.87346221,Porcentaje,21.099419,-99.123187,1497,501,228,273,137
+398,13,Hidalgo,40,La Misión,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,27.738516,27.91777188,Porcentaje,21.099419,-99.123187,1497,501,228,273,137
+399,13,Hidalgo,40,La Misión,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,69.984535,69.75069252,Porcentaje,21.099419,-99.123187,1497,501,228,273,137
+400,13,Hidalgo,41,Mixquiahuala de Juárez,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,21.620747,23.29055039,Porcentaje,20.22938,-99.213798,2000,25510,12044,13466,6349
+401,13,Hidalgo,41,Mixquiahuala de Juárez,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,16.142786,19.65867055,Porcentaje,20.22938,-99.213798,2000,25510,12044,13466,6349
+402,13,Hidalgo,41,Mixquiahuala de Juárez,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.1823047,0.058849905,Porcentaje,20.22938,-99.213798,2000,25510,12044,13466,6349
+403,13,Hidalgo,41,Mixquiahuala de Juárez,6207019010,Porcentaje de población de 25 años y más alfabeta,93.524764,95.30713058,Porcentaje,20.22938,-99.213798,2000,25510,12044,13466,6349
+404,13,Hidalgo,41,Mixquiahuala de Juárez,6207019020,Porcentaje de población de 15 años y más sin escolaridad,3.9313123,3.488958637,Porcentaje,20.22938,-99.213798,2000,25510,12044,13466,6349
+405,13,Hidalgo,41,Mixquiahuala de Juárez,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,63.348232,61.2244898,Porcentaje,20.22938,-99.213798,2000,25510,12044,13466,6349
+406,13,Hidalgo,41,Mixquiahuala de Juárez,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,98.738555,97.52279033,Porcentaje,20.22938,-99.213798,2000,25510,12044,13466,6349
+407,13,Hidalgo,41,Mixquiahuala de Juárez,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,97.348928,95.75928918,Porcentaje,20.22938,-99.213798,2000,25510,12044,13466,6349
+408,13,Hidalgo,41,Mixquiahuala de Juárez,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,48.59871,52.77490965,Porcentaje,20.22938,-99.213798,2000,25510,12044,13466,6349
+409,13,Hidalgo,41,Mixquiahuala de Juárez,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,58.12285,53.50297052,Porcentaje,20.22938,-99.213798,2000,25510,12044,13466,6349
+410,13,Hidalgo,42,Molango de Escamilla,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,19.412485,21.30531753,Porcentaje,20.786498,-98.730814,1580,4265,2053,2212,1090
+411,13,Hidalgo,42,Molango de Escamilla,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,9.9510404,14.07442188,Porcentaje,20.786498,-98.730814,1580,4265,2053,2212,1090
+412,13,Hidalgo,42,Molango de Escamilla,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.4895961,0.140861603,Porcentaje,20.786498,-98.730814,1580,4265,2053,2212,1090
+413,13,Hidalgo,42,Molango de Escamilla,6207019010,Porcentaje de población de 25 años y más alfabeta,85.984967,88.3989346,Porcentaje,20.786498,-98.730814,1580,4265,2053,2212,1090
+414,13,Hidalgo,42,Molango de Escamilla,6207019020,Porcentaje de población de 15 años y más sin escolaridad,9.4859241,7.55957272,Porcentaje,20.786498,-98.730814,1580,4265,2053,2212,1090
+415,13,Hidalgo,42,Molango de Escamilla,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,63.675832,72.14983713,Porcentaje,20.786498,-98.730814,1580,4265,2053,2212,1090
+416,13,Hidalgo,42,Molango de Escamilla,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,98.080877,96.92883895,Porcentaje,20.786498,-98.730814,1580,4265,2053,2212,1090
+417,13,Hidalgo,42,Molango de Escamilla,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,96.388889,94.30769231,Porcentaje,20.786498,-98.730814,1580,4265,2053,2212,1090
+418,13,Hidalgo,42,Molango de Escamilla,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,42.320628,54.91198183,Porcentaje,20.786498,-98.730814,1580,4265,2053,2212,1090
+419,13,Hidalgo,42,Molango de Escamilla,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,60.660955,56.91982627,Porcentaje,20.786498,-98.730814,1580,4265,2053,2212,1090
+420,13,Hidalgo,43,Nicolás Flores,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,10.321244,18.2986265,Porcentaje,20.767778,-99.150556,1518,361,165,196,96
+421,13,Hidalgo,43,Nicolás Flores,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,2.2590674,5.892778024,Porcentaje,20.767778,-99.150556,1518,361,165,196,96
+422,13,Hidalgo,43,Nicolás Flores,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.2279793,0.022153301,Porcentaje,20.767778,-99.150556,1518,361,165,196,96
+423,13,Hidalgo,43,Nicolás Flores,6207019010,Porcentaje de población de 25 años y más alfabeta,82.734736,86.78014184,Porcentaje,20.767778,-99.150556,1518,361,165,196,96
+424,13,Hidalgo,43,Nicolás Flores,6207019020,Porcentaje de población de 15 años y más sin escolaridad,12.082902,8.551174125,Porcentaje,20.767778,-99.150556,1518,361,165,196,96
+425,13,Hidalgo,43,Nicolás Flores,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,63.72093,73.21428571,Porcentaje,20.767778,-99.150556,1518,361,165,196,96
+426,13,Hidalgo,43,Nicolás Flores,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,99.149841,97.95918367,Porcentaje,20.767778,-99.150556,1518,361,165,196,96
+427,13,Hidalgo,43,Nicolás Flores,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,96.969697,97.30392157,Porcentaje,20.767778,-99.150556,1518,361,165,196,96
+428,13,Hidalgo,43,Nicolás Flores,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,29.989213,48.02831143,Porcentaje,20.767778,-99.150556,1518,361,165,196,96
+429,13,Hidalgo,43,Nicolás Flores,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,75.108808,67.23526805,Porcentaje,20.767778,-99.150556,1518,361,165,196,96
+430,13,Hidalgo,44,Nopala de Villagrán,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,13.774369,18.05404566,Porcentaje,20.25189,-99.644238,2397,1065,509,556,316
+431,13,Hidalgo,44,Nopala de Villagrán,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,6.1920741,8.867836621,Porcentaje,20.25189,-99.644238,2397,1065,509,556,316
+432,13,Hidalgo,44,Nopala de Villagrán,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.2796421,0.062121447,Porcentaje,20.25189,-99.644238,2397,1065,509,556,316
+433,13,Hidalgo,44,Nopala de Villagrán,6207019010,Porcentaje de población de 25 años y más alfabeta,87.635508,91.2052749,Porcentaje,20.25189,-99.644238,2397,1065,509,556,316
+434,13,Hidalgo,44,Nopala de Villagrán,6207019020,Porcentaje de población de 15 años y más sin escolaridad,8.4611697,6.52275198,Porcentaje,20.25189,-99.644238,2397,1065,509,556,316
+435,13,Hidalgo,44,Nopala de Villagrán,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,64.171779,61.41439206,Porcentaje,20.25189,-99.644238,2397,1065,509,556,316
+436,13,Hidalgo,44,Nopala de Villagrán,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,98.918611,96.22524752,Porcentaje,20.25189,-99.644238,2397,1065,509,556,316
+437,13,Hidalgo,44,Nopala de Villagrán,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,95.233266,95.09803922,Porcentaje,20.25189,-99.644238,2397,1065,509,556,316
+438,13,Hidalgo,44,Nopala de Villagrán,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,40.759679,45.80896686,Porcentaje,20.25189,-99.644238,2397,1065,509,556,316
+439,13,Hidalgo,44,Nopala de Villagrán,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,71.292745,66.49324429,Porcentaje,20.25189,-99.644238,2397,1065,509,556,316
+440,13,Hidalgo,45,Omitlán de Juárez,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,14.779499,20.5165835,Porcentaje,20.1695,-98.648639,2410,1040,480,560,278
+441,13,Hidalgo,45,Omitlán de Juárez,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,5.0208582,8.746697975,Porcentaje,20.1695,-98.648639,2410,1040,480,560,278
+442,13,Hidalgo,45,Omitlán de Juárez,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.0893921,0.058702671,Porcentaje,20.1695,-98.648639,2410,1040,480,560,278
+443,13,Hidalgo,45,Omitlán de Juárez,6207019010,Porcentaje de población de 25 años y más alfabeta,88.432911,92.10825132,Porcentaje,20.1695,-98.648639,2410,1040,480,560,278
+444,13,Hidalgo,45,Omitlán de Juárez,6207019020,Porcentaje de población de 15 años y más sin escolaridad,6.8235995,5.488699736,Porcentaje,20.1695,-98.648639,2410,1040,480,560,278
+445,13,Hidalgo,45,Omitlán de Juárez,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,54.677419,56.76855895,Porcentaje,20.1695,-98.648639,2410,1040,480,560,278
+446,13,Hidalgo,45,Omitlán de Juárez,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,98.40871,95.82172702,Porcentaje,20.1695,-98.648639,2410,1040,480,560,278
+447,13,Hidalgo,45,Omitlán de Juárez,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,96.209386,93.89587074,Porcentaje,20.1695,-98.648639,2410,1040,480,560,278
+448,13,Hidalgo,45,Omitlán de Juárez,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,31.074095,42.61437908,Porcentaje,20.1695,-98.648639,2410,1040,480,560,278
+449,13,Hidalgo,45,Omitlán de Juárez,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,73.286651,65.18931611,Porcentaje,20.1695,-98.648639,2410,1040,480,560,278
+450,13,Hidalgo,46,San Felipe Orizatlán,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,12.559187,15.56404511,Porcentaje,21.170944,-98.607815,175,6686,3226,3460,1627
+451,13,Hidalgo,46,San Felipe Orizatlán,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,5.6361692,8.25037652,Porcentaje,21.170944,-98.607815,175,6686,3226,3460,1627
+452,13,Hidalgo,46,San Felipe Orizatlán,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,21.307469,0.106527569,Porcentaje,21.170944,-98.607815,175,6686,3226,3460,1627
+453,13,Hidalgo,46,San Felipe Orizatlán,6207019010,Porcentaje de población de 25 años y más alfabeta,68.719533,73.75782113,Porcentaje,21.170944,-98.607815,175,6686,3226,3460,1627
+454,13,Hidalgo,46,San Felipe Orizatlán,6207019020,Porcentaje de población de 15 años y más sin escolaridad,0.6987933,18.18315395,Porcentaje,21.170944,-98.607815,175,6686,3226,3460,1627
+455,13,Hidalgo,46,San Felipe Orizatlán,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,83.326489,84.35909301,Porcentaje,21.170944,-98.607815,175,6686,3226,3460,1627
+456,13,Hidalgo,46,San Felipe Orizatlán,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,99.412545,98.91398784,Porcentaje,21.170944,-98.607815,175,6686,3226,3460,1627
+457,13,Hidalgo,46,San Felipe Orizatlán,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,97.052776,94.24206816,Porcentaje,21.170944,-98.607815,175,6686,3226,3460,1627
+458,13,Hidalgo,46,San Felipe Orizatlán,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,41.945511,45.48933844,Porcentaje,21.170944,-98.607815,175,6686,3226,3460,1627
+459,13,Hidalgo,46,San Felipe Orizatlán,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,59.798381,57.89589685,Porcentaje,21.170944,-98.607815,175,6686,3226,3460,1627
+460,13,Hidalgo,47,Pacula,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,12.707775,16.42938497,Porcentaje,21.050821,-99.296099,1310,535,244,291,150
+461,13,Hidalgo,47,Pacula,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,1.8230563,2.932801822,Porcentaje,21.050821,-99.296099,1310,535,244,291,150
+462,13,Hidalgo,47,Pacula,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.536193,0,Porcentaje,21.050821,-99.296099,1310,535,244,291,150
+463,13,Hidalgo,47,Pacula,6207019010,Porcentaje de población de 25 años y más alfabeta,77.675528,80.09145269,Porcentaje,21.050821,-99.296099,1310,535,244,291,150
+464,13,Hidalgo,47,Pacula,6207019020,Porcentaje de población de 15 años y más sin escolaridad,15.924933,13.15489749,Porcentaje,21.050821,-99.296099,1310,535,244,291,150
+465,13,Hidalgo,47,Pacula,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,48.923077,61.36363636,Porcentaje,21.050821,-99.296099,1310,535,244,291,150
+466,13,Hidalgo,47,Pacula,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,97.777778,98.87640449,Porcentaje,21.050821,-99.296099,1310,535,244,291,150
+467,13,Hidalgo,47,Pacula,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,97.04797,95.12195122,Porcentaje,21.050821,-99.296099,1310,535,244,291,150
+468,13,Hidalgo,47,Pacula,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,31.407035,37.36920777,Porcentaje,21.050821,-99.296099,1310,535,244,291,150
+469,13,Hidalgo,47,Pacula,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,69.008043,67.48291572,Porcentaje,21.050821,-99.296099,1310,535,244,291,150
+470,13,Hidalgo,48,Pachuca de Soto,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,26.07586,25.65347576,Porcentaje,20.12236,-98.737001,2378,256584,121719,134865,70037
+471,13,Hidalgo,48,Pachuca de Soto,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,31.266215,36.1402444,Porcentaje,20.12236,-98.737001,2378,256584,121719,134865,70037
+472,13,Hidalgo,48,Pachuca de Soto,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.0972927,0.165493243,Porcentaje,20.12236,-98.737001,2378,256584,121719,134865,70037
+473,13,Hidalgo,48,Pachuca de Soto,6207019010,Porcentaje de población de 25 años y más alfabeta,97.01744,97.39898795,Porcentaje,20.12236,-98.737001,2378,256584,121719,134865,70037
+474,13,Hidalgo,48,Pachuca de Soto,6207019020,Porcentaje de población de 15 años y más sin escolaridad,2.4266779,2.237598123,Porcentaje,20.12236,-98.737001,2378,256584,121719,134865,70037
+475,13,Hidalgo,48,Pachuca de Soto,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,65.079853,67.8040245,Porcentaje,20.12236,-98.737001,2378,256584,121719,134865,70037
+476,13,Hidalgo,48,Pachuca de Soto,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,98.692382,97.64403923,Porcentaje,20.12236,-98.737001,2378,256584,121719,134865,70037
+477,13,Hidalgo,48,Pachuca de Soto,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,97.01288,96.04483926,Porcentaje,20.12236,-98.737001,2378,256584,121719,134865,70037
+478,13,Hidalgo,48,Pachuca de Soto,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,60.283107,59.34457464,Porcentaje,20.12236,-98.737001,2378,256584,121719,134865,70037
+479,13,Hidalgo,48,Pachuca de Soto,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,40.133954,35.80318848,Porcentaje,20.12236,-98.737001,2378,256584,121719,134865,70037
+480,13,Hidalgo,49,Pisaflores,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,10.454018,13.90223695,Porcentaje,21.194782,-99.005997,261,2119,1020,1099,553
+481,13,Hidalgo,49,Pisaflores,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,3.2824904,4.241922121,Porcentaje,21.194782,-99.005997,261,2119,1020,1099,553
+482,13,Hidalgo,49,Pisaflores,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.5530283,0.049710025,Porcentaje,21.194782,-99.005997,261,2119,1020,1099,553
+483,13,Hidalgo,49,Pisaflores,6207019010,Porcentaje de población de 25 años y más alfabeta,74.453001,80.48699502,Porcentaje,21.194782,-99.005997,261,2119,1020,1099,553
+484,13,Hidalgo,49,Pisaflores,6207019020,Porcentaje de población de 15 años y más sin escolaridad,19.32031,15.36039768,Porcentaje,21.194782,-99.005997,261,2119,1020,1099,553
+485,13,Hidalgo,49,Pisaflores,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,56.511057,57.85667324,Porcentaje,21.194782,-99.005997,261,2119,1020,1099,553
+486,13,Hidalgo,49,Pisaflores,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,97.949337,97.46233148,Porcentaje,21.194782,-99.005997,261,2119,1020,1099,553
+487,13,Hidalgo,49,Pisaflores,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,92.563177,87.55760369,Porcentaje,21.194782,-99.005997,261,2119,1020,1099,553
+488,13,Hidalgo,49,Pisaflores,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,23.993399,25.37067545,Porcentaje,21.194782,-99.005997,261,2119,1020,1099,553
+489,13,Hidalgo,49,Pisaflores,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,66.390153,66.44573322,Porcentaje,21.194782,-99.005997,261,2119,1020,1099,553
+490,13,Hidalgo,50,Progreso de Obregón,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,23.446859,24.76814572,Porcentaje,20.248195,-99.189359,2002,17486,8237,9249,4198
+491,13,Hidalgo,50,Progreso de Obregón,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,19.482001,24.50713611,Porcentaje,20.248195,-99.189359,2002,17486,8237,9249,4198
+492,13,Hidalgo,50,Progreso de Obregón,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.2567174,0.177708669,Porcentaje,20.248195,-99.189359,2002,17486,8237,9249,4198
+493,13,Hidalgo,50,Progreso de Obregón,6207019010,Porcentaje de población de 25 años y más alfabeta,94.259617,95.73659772,Porcentaje,20.248195,-99.189359,2002,17486,8237,9249,4198
+494,13,Hidalgo,50,Progreso de Obregón,6207019020,Porcentaje de población de 15 años y más sin escolaridad,4.1474129,3.187649248,Porcentaje,20.248195,-99.189359,2002,17486,8237,9249,4198
+495,13,Hidalgo,50,Progreso de Obregón,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,69.147157,67.81512605,Porcentaje,20.248195,-99.189359,2002,17486,8237,9249,4198
+496,13,Hidalgo,50,Progreso de Obregón,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,98.809035,96.89206216,Porcentaje,20.248195,-99.189359,2002,17486,8237,9249,4198
+497,13,Hidalgo,50,Progreso de Obregón,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,96.240602,95.12411348,Porcentaje,20.248195,-99.189359,2002,17486,8237,9249,4198
+498,13,Hidalgo,50,Progreso de Obregón,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,52.276643,56.55154231,Porcentaje,20.248195,-99.189359,2002,17486,8237,9249,4198
+499,13,Hidalgo,50,Progreso de Obregón,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,52.667009,47.35936025,Porcentaje,20.248195,-99.189359,2002,17486,8237,9249,4198
+500,13,Hidalgo,51,Mineral de la Reforma,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,26.918193,30.11288649,Porcentaje,20.072371,-98.696035,2425,6139,3007,3132,1672
+501,13,Hidalgo,51,Mineral de la Reforma,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,32.088818,34.47650654,Porcentaje,20.072371,-98.696035,2425,6139,3007,3132,1672
+502,13,Hidalgo,51,Mineral de la Reforma,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.105523,0.211421908,Porcentaje,20.072371,-98.696035,2425,6139,3007,3132,1672
+503,13,Hidalgo,51,Mineral de la Reforma,6207019010,Porcentaje de población de 25 años y más alfabeta,97.209574,98.34943238,Porcentaje,20.072371,-98.696035,2425,6139,3007,3132,1672
+504,13,Hidalgo,51,Mineral de la Reforma,6207019020,Porcentaje de población de 15 años y más sin escolaridad,1.9584347,1.368476353,Porcentaje,20.072371,-98.696035,2425,6139,3007,3132,1672
+505,13,Hidalgo,51,Mineral de la Reforma,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,68.095425,66.26996891,Porcentaje,20.072371,-98.696035,2425,6139,3007,3132,1672
+506,13,Hidalgo,51,Mineral de la Reforma,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,99.072287,97.58650475,Porcentaje,20.072371,-98.696035,2425,6139,3007,3132,1672
+507,13,Hidalgo,51,Mineral de la Reforma,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,98.305728,96.10769681,Porcentaje,20.072371,-98.696035,2425,6139,3007,3132,1672
+508,13,Hidalgo,51,Mineral de la Reforma,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,58.757608,59.63127424,Porcentaje,20.072371,-98.696035,2425,6139,3007,3132,1672
+509,13,Hidalgo,51,Mineral de la Reforma,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,38.929031,33.83070871,Porcentaje,20.072371,-98.696035,2425,6139,3007,3132,1672
+510,13,Hidalgo,52,San Agustín Tlaxiaca,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,19.442743,22.70360412,Porcentaje,20.115661,-98.886778,2358,10496,5060,5436,2400
+511,13,Hidalgo,52,San Agustín Tlaxiaca,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,14.895897,16.19644012,Porcentaje,20.115661,-98.886778,2358,10496,5060,5436,2400
+512,13,Hidalgo,52,San Agustín Tlaxiaca,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.0459277,0.095293197,Porcentaje,20.115661,-98.886778,2358,10496,5060,5436,2400
+513,13,Hidalgo,52,San Agustín Tlaxiaca,6207019010,Porcentaje de población de 25 años y más alfabeta,92.760508,94.8525804,Porcentaje,20.115661,-98.886778,2358,10496,5060,5436,2400
+514,13,Hidalgo,52,San Agustín Tlaxiaca,6207019020,Porcentaje de población de 15 años y más sin escolaridad,4.6463564,3.627948133,Porcentaje,20.115661,-98.886778,2358,10496,5060,5436,2400
+515,13,Hidalgo,52,San Agustín Tlaxiaca,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,60.386965,62.07264957,Porcentaje,20.115661,-98.886778,2358,10496,5060,5436,2400
+516,13,Hidalgo,52,San Agustín Tlaxiaca,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,99.02497,97.77506112,Porcentaje,20.115661,-98.886778,2358,10496,5060,5436,2400
+517,13,Hidalgo,52,San Agustín Tlaxiaca,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,97.102897,96.36277752,Porcentaje,20.115661,-98.886778,2358,10496,5060,5436,2400
+518,13,Hidalgo,52,San Agustín Tlaxiaca,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,45.740905,49.33946008,Porcentaje,20.115661,-98.886778,2358,10496,5060,5436,2400
+519,13,Hidalgo,52,San Agustín Tlaxiaca,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,60.969075,57.37671443,Porcentaje,20.115661,-98.886778,2358,10496,5060,5436,2400
+520,13,Hidalgo,53,San Bartolo Tutotepec,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,10.614393,14.35593353,Porcentaje,20.399143,-98.20206,1019,2568,1264,1304,650
+521,13,Hidalgo,53,San Bartolo Tutotepec,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,6.2853551,8.793009285,Porcentaje,20.399143,-98.20206,1019,2568,1264,1304,650
+522,13,Hidalgo,53,San Bartolo Tutotepec,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.1964173,0.023406413,Porcentaje,20.399143,-98.20206,1019,2568,1264,1304,650
+523,13,Hidalgo,53,San Bartolo Tutotepec,6207019010,Porcentaje de población de 25 años y más alfabeta,59.800288,65.38145178,Porcentaje,20.399143,-98.20206,1019,2568,1264,1304,650
+524,13,Hidalgo,53,San Bartolo Tutotepec,6207019020,Porcentaje de población de 15 años y más sin escolaridad,29.721873,24.64695327,Porcentaje,20.399143,-98.20206,1019,2568,1264,1304,650
+525,13,Hidalgo,53,San Bartolo Tutotepec,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,66.295026,66.94711538,Porcentaje,20.399143,-98.20206,1019,2568,1264,1304,650
+526,13,Hidalgo,53,San Bartolo Tutotepec,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,97.319743,97.14013346,Porcentaje,20.399143,-98.20206,1019,2568,1264,1304,650
+527,13,Hidalgo,53,San Bartolo Tutotepec,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,92.977528,91.58957107,Porcentaje,20.399143,-98.20206,1019,2568,1264,1304,650
+528,13,Hidalgo,53,San Bartolo Tutotepec,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,33.41075,38.88709156,Porcentaje,20.399143,-98.20206,1019,2568,1264,1304,650
+529,13,Hidalgo,53,San Bartolo Tutotepec,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,53.181961,52.18069751,Porcentaje,20.399143,-98.20206,1019,2568,1264,1304,650
+530,13,Hidalgo,54,San Salvador,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,20.738872,23.873923,Porcentaje,20.284568,-99.015604,1941,1070,508,562,272
+531,13,Hidalgo,54,San Salvador,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,13.910026,17.75548042,Porcentaje,20.284568,-99.015604,1941,1070,508,562,272
+532,13,Hidalgo,54,San Salvador,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.1537673,0.050896136,Porcentaje,20.284568,-99.015604,1941,1070,508,562,272
+533,13,Hidalgo,54,San Salvador,6207019010,Porcentaje de población de 25 años y más alfabeta,92.335107,94.1993845,Porcentaje,20.284568,-99.015604,1941,1070,508,562,272
+534,13,Hidalgo,54,San Salvador,6207019020,Porcentaje de población de 15 años y más sin escolaridad,4.5499349,3.486385284,Porcentaje,20.284568,-99.015604,1941,1070,508,562,272
+535,13,Hidalgo,54,San Salvador,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,63.178985,64.87093154,Porcentaje,20.284568,-99.015604,1941,1070,508,562,272
+536,13,Hidalgo,54,San Salvador,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,98.383085,99.03892359,Porcentaje,20.284568,-99.015604,1941,1070,508,562,272
+537,13,Hidalgo,54,San Salvador,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,97.058824,97.39530133,Porcentaje,20.284568,-99.015604,1941,1070,508,562,272
+538,13,Hidalgo,54,San Salvador,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,45.218261,55.30440521,Porcentaje,20.284568,-99.015604,1941,1070,508,562,272
+539,13,Hidalgo,54,San Salvador,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,60.6474,54.83331516,Porcentaje,20.284568,-99.015604,1941,1070,508,562,272
+540,13,Hidalgo,55,Santiago de Anaya,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,19.518522,23.08943089,Porcentaje,20.382582,-98.963953,2029,2214,1050,1164,572
+541,13,Hidalgo,55,Santiago de Anaya,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,10.286131,11.9142646,Porcentaje,20.382582,-98.963953,2029,2214,1050,1164,572
+542,13,Hidalgo,55,Santiago de Anaya,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.1702197,0.125646711,Porcentaje,20.382582,-98.963953,2029,2214,1050,1164,572
+543,13,Hidalgo,55,Santiago de Anaya,6207019010,Porcentaje de población de 25 años y más alfabeta,90.578066,93.12933574,Porcentaje,20.382582,-98.963953,2029,2214,1050,1164,572
+544,13,Hidalgo,55,Santiago de Anaya,6207019020,Porcentaje de población de 15 años y más sin escolaridad,5.5686147,4.183296378,Porcentaje,20.382582,-98.963953,2029,2214,1050,1164,572
+545,13,Hidalgo,55,Santiago de Anaya,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,65.087539,65.66866267,Porcentaje,20.382582,-98.963953,2029,2214,1050,1164,572
+546,13,Hidalgo,55,Santiago de Anaya,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,99.568733,98.88295289,Porcentaje,20.382582,-98.963953,2029,2214,1050,1164,572
+547,13,Hidalgo,55,Santiago de Anaya,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,98.798799,97.72020725,Porcentaje,20.382582,-98.963953,2029,2214,1050,1164,572
+548,13,Hidalgo,55,Santiago de Anaya,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,44.419208,49.58430329,Porcentaje,20.382582,-98.963953,2029,2214,1050,1164,572
+549,13,Hidalgo,55,Santiago de Anaya,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,64.456513,60.68736142,Porcentaje,20.382582,-98.963953,2029,2214,1050,1164,572
+550,13,Hidalgo,56,Santiago Tulantepec de Lugo Guerrero,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,21.868698,24.20845224,Porcentaje,20.039193,-98.357006,2180,16078,7572,8506,4064
+551,13,Hidalgo,56,Santiago Tulantepec de Lugo Guerrero,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,13.86586,17.8115233,Porcentaje,20.039193,-98.357006,2180,16078,7572,8506,4064
+552,13,Hidalgo,56,Santiago Tulantepec de Lugo Guerrero,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.1867204,0.09851882,Porcentaje,20.039193,-98.357006,2180,16078,7572,8506,4064
+553,13,Hidalgo,56,Santiago Tulantepec de Lugo Guerrero,6207019010,Porcentaje de población de 25 años y más alfabeta,93.004683,94.17737165,Porcentaje,20.039193,-98.357006,2180,16078,7572,8506,4064
+554,13,Hidalgo,56,Santiago Tulantepec de Lugo Guerrero,6207019020,Porcentaje de población de 15 años y más sin escolaridad,5.4597057,4.990487838,Porcentaje,20.039193,-98.357006,2180,16078,7572,8506,4064
+555,13,Hidalgo,56,Santiago Tulantepec de Lugo Guerrero,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,57.218735,55.93220339,Porcentaje,20.039193,-98.357006,2180,16078,7572,8506,4064
+556,13,Hidalgo,56,Santiago Tulantepec de Lugo Guerrero,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,98.297285,95.07966261,Porcentaje,20.039193,-98.357006,2180,16078,7572,8506,4064
+557,13,Hidalgo,56,Santiago Tulantepec de Lugo Guerrero,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,94.824399,92.71644526,Porcentaje,20.039193,-98.357006,2180,16078,7572,8506,4064
+558,13,Hidalgo,56,Santiago Tulantepec de Lugo Guerrero,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,43.770214,47.54533392,Porcentaje,20.039193,-98.357006,2180,16078,7572,8506,4064
+559,13,Hidalgo,56,Santiago Tulantepec de Lugo Guerrero,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,58.619016,52.8910178,Porcentaje,20.039193,-98.357006,2180,16078,7572,8506,4064
+560,13,Hidalgo,57,Singuilucan,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,14.997392,19.06618314,Porcentaje,19.9675,-98.517222,2634,4076,1911,2165,989
+561,13,Hidalgo,57,Singuilucan,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,5.7468266,8.195829556,Porcentaje,19.9675,-98.517222,2634,4076,1911,2165,989
+562,13,Hidalgo,57,Singuilucan,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.1738828,0.126926564,Porcentaje,19.9675,-98.517222,2634,4076,1911,2165,989
+563,13,Hidalgo,57,Singuilucan,6207019010,Porcentaje de población de 25 años y más alfabeta,84.761905,89.79328165,Porcentaje,19.9675,-98.517222,2634,4076,1911,2165,989
+564,13,Hidalgo,57,Singuilucan,6207019020,Porcentaje de población de 15 años y más sin escolaridad,11.363241,7.379873073,Porcentaje,19.9675,-98.517222,2634,4076,1911,2165,989
+565,13,Hidalgo,57,Singuilucan,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,57.50242,56.59679408,Porcentaje,19.9675,-98.517222,2634,4076,1911,2165,989
+566,13,Hidalgo,57,Singuilucan,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,98.280354,93.60703812,Porcentaje,19.9675,-98.517222,2634,4076,1911,2165,989
+567,13,Hidalgo,57,Singuilucan,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,94.814815,90.38674033,Porcentaje,19.9675,-98.517222,2634,4076,1911,2165,989
+568,13,Hidalgo,57,Singuilucan,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,33.512738,40.73926868,Porcentaje,19.9675,-98.517222,2634,4076,1911,2165,989
+569,13,Hidalgo,57,Singuilucan,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,67.718658,65.23118767,Porcentaje,19.9675,-98.517222,2634,4076,1911,2165,989
+570,13,Hidalgo,58,Tasquillo,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,17.69637,20.312262,Porcentaje,20.551772,-99.312556,1631,3744,1718,2026,1020
+571,13,Hidalgo,58,Tasquillo,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,11.593595,14.85148515,Porcentaje,20.551772,-99.312556,1631,3744,1718,2026,1020
+572,13,Hidalgo,58,Tasquillo,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.2011904,0.654988576,Porcentaje,20.551772,-99.312556,1631,3744,1718,2026,1020
+573,13,Hidalgo,58,Tasquillo,6207019010,Porcentaje de población de 25 años y más alfabeta,87.708067,90.15830631,Porcentaje,20.551772,-99.312556,1631,3744,1718,2026,1020
+574,13,Hidalgo,58,Tasquillo,6207019020,Porcentaje de población de 15 años y más sin escolaridad,7.6117026,5.849200305,Porcentaje,20.551772,-99.312556,1631,3744,1718,2026,1020
+575,13,Hidalgo,58,Tasquillo,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,61.383929,61.93247963,Porcentaje,20.551772,-99.312556,1631,3744,1718,2026,1020
+576,13,Hidalgo,58,Tasquillo,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,98.101952,98.68708972,Porcentaje,20.551772,-99.312556,1631,3744,1718,2026,1020
+577,13,Hidalgo,58,Tasquillo,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,95.100223,97.60087241,Porcentaje,20.551772,-99.312556,1631,3744,1718,2026,1020
+578,13,Hidalgo,58,Tasquillo,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,42.041455,53.51739788,Porcentaje,20.551772,-99.312556,1631,3744,1718,2026,1020
+579,13,Hidalgo,58,Tasquillo,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,62.897141,58.33206398,Porcentaje,20.551772,-99.312556,1631,3744,1718,2026,1020
+580,13,Hidalgo,59,Tecozautla,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,13.38544,16.99946033,Porcentaje,20.533873,-99.634924,1704,5844,2712,3132,1462
+581,13,Hidalgo,59,Tecozautla,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,4.6216584,6.720633207,Porcentaje,20.533873,-99.634924,1704,5844,2712,3132,1462
+582,13,Hidalgo,59,Tecozautla,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.1057242,0.11872639,Porcentaje,20.533873,-99.634924,1704,5844,2712,3132,1462
+583,13,Hidalgo,59,Tecozautla,6207019010,Porcentaje de población de 25 años y más alfabeta,84.399901,88.36128792,Porcentaje,20.533873,-99.634924,1704,5844,2712,3132,1462
+584,13,Hidalgo,59,Tecozautla,6207019020,Porcentaje de población de 15 años y más sin escolaridad,10.421386,8.005036877,Porcentaje,20.533873,-99.634924,1704,5844,2712,3132,1462
+585,13,Hidalgo,59,Tecozautla,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,51.870212,52.63922518,Porcentaje,20.533873,-99.634924,1704,5844,2712,3132,1462
+586,13,Hidalgo,59,Tecozautla,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,98.559267,97.45016226,Porcentaje,20.533873,-99.634924,1704,5844,2712,3132,1462
+587,13,Hidalgo,59,Tecozautla,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,95.054945,93.5828877,Porcentaje,20.533873,-99.634924,1704,5844,2712,3132,1462
+588,13,Hidalgo,59,Tecozautla,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,30.004778,39.66836735,Porcentaje,20.533873,-99.634924,1704,5844,2712,3132,1462
+589,13,Hidalgo,59,Tecozautla,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,71.465791,68.15614319,Porcentaje,20.533873,-99.634924,1704,5844,2712,3132,1462
+590,13,Hidalgo,60,Tenango de Doria,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,10.399235,13.65400162,Porcentaje,20.338056,-98.226729,1641,2433,1192,1241,577
+591,13,Hidalgo,60,Tenango de Doria,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,7.1639174,9.814066289,Porcentaje,20.338056,-98.226729,1641,2433,1192,1241,577
+592,13,Hidalgo,60,Tenango de Doria,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.2390629,0.048504446,Porcentaje,20.338056,-98.226729,1641,2433,1192,1241,577
+593,13,Hidalgo,60,Tenango de Doria,6207019010,Porcentaje de población de 25 años y más alfabeta,73.156568,79.00168492,Porcentaje,20.338056,-98.226729,1641,2433,1192,1241,577
+594,13,Hidalgo,60,Tenango de Doria,6207019020,Porcentaje de población de 15 años y más sin escolaridad,18.989561,15.61034762,Porcentaje,20.338056,-98.226729,1641,2433,1192,1241,577
+595,13,Hidalgo,60,Tenango de Doria,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,72.887865,70.37037037,Porcentaje,20.338056,-98.226729,1641,2433,1192,1241,577
+596,13,Hidalgo,60,Tenango de Doria,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,98.884018,97.65625,Porcentaje,20.338056,-98.226729,1641,2433,1192,1241,577
+597,13,Hidalgo,60,Tenango de Doria,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,92.782678,91.5904936,Porcentaje,20.338056,-98.226729,1641,2433,1192,1241,577
+598,13,Hidalgo,60,Tenango de Doria,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,27.527762,37.71746695,Porcentaje,20.338056,-98.226729,1641,2433,1192,1241,577
+599,13,Hidalgo,60,Tenango de Doria,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,63.208224,60.87308003,Porcentaje,20.338056,-98.226729,1641,2433,1192,1241,577
+600,13,Hidalgo,61,Tepeapulco,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,26.201309,27.86357933,Porcentaje,19.785674,-98.553662,2510,15244,7303,7941,3908
+601,13,Hidalgo,61,Tepeapulco,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,18.644315,22.23565644,Porcentaje,19.785674,-98.553662,2510,15244,7303,7941,3908
+602,13,Hidalgo,61,Tepeapulco,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.1362497,0.100376412,Porcentaje,19.785674,-98.553662,2510,15244,7303,7941,3908
+603,13,Hidalgo,61,Tepeapulco,6207019010,Porcentaje de población de 25 años y más alfabeta,95.569402,96.25738104,Porcentaje,19.785674,-98.553662,2510,15244,7303,7941,3908
+604,13,Hidalgo,61,Tepeapulco,6207019020,Porcentaje de población de 15 años y más sin escolaridad,3.6422471,3.189232349,Porcentaje,19.785674,-98.553662,2510,15244,7303,7941,3908
+605,13,Hidalgo,61,Tepeapulco,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,63.478261,65.85062241,Porcentaje,19.785674,-98.553662,2510,15244,7303,7941,3908
+606,13,Hidalgo,61,Tepeapulco,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,98.969631,97.09035222,Porcentaje,19.785674,-98.553662,2510,15244,7303,7941,3908
+607,13,Hidalgo,61,Tepeapulco,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,96.89441,95.41928334,Porcentaje,19.785674,-98.553662,2510,15244,7303,7941,3908
+608,13,Hidalgo,61,Tepeapulco,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,50.862069,53.38645418,Porcentaje,19.785674,-98.553662,2510,15244,7303,7941,3908
+609,13,Hidalgo,61,Tepeapulco,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,51.375879,46.61115547,Porcentaje,19.785674,-98.553662,2510,15244,7303,7941,3908
+610,13,Hidalgo,62,Tepehuacán de Guerrero,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,11.144883,14.52677916,Porcentaje,21.014084,-98.843733,899,1061,527,534,267
+611,13,Hidalgo,62,Tepehuacán de Guerrero,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,3.6474164,4.15749572,Porcentaje,21.014084,-98.843733,899,1061,527,534,267
+612,13,Hidalgo,62,Tepehuacán de Guerrero,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.0861196,0.063585229,Porcentaje,21.014084,-98.843733,899,1061,527,534,267
+613,13,Hidalgo,62,Tepehuacán de Guerrero,6207019010,Porcentaje de población de 25 años y más alfabeta,66.380221,71.00779289,Porcentaje,21.014084,-98.843733,899,1061,527,534,267
+614,13,Hidalgo,62,Tepehuacán de Guerrero,6207019020,Porcentaje de población de 15 años y más sin escolaridad,19.782168,17.72071411,Porcentaje,21.014084,-98.843733,899,1061,527,534,267
+615,13,Hidalgo,62,Tepehuacán de Guerrero,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,66.293586,62.19354839,Porcentaje,21.014084,-98.843733,899,1061,527,534,267
+616,13,Hidalgo,62,Tepehuacán de Guerrero,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,98.02381,97.16853933,Porcentaje,21.014084,-98.843733,899,1061,527,534,267
+617,13,Hidalgo,62,Tepehuacán de Guerrero,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,92.432432,90.90464548,Porcentaje,21.014084,-98.843733,899,1061,527,534,267
+618,13,Hidalgo,62,Tepehuacán de Guerrero,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,27.133321,29.54931171,Porcentaje,21.014084,-98.843733,899,1061,527,534,267
+619,13,Hidalgo,62,Tepehuacán de Guerrero,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,65.339412,63.53142578,Porcentaje,21.014084,-98.843733,899,1061,527,534,267
+620,13,Hidalgo,63,Tepeji del Río de Ocampo,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,21.373249,23.57537584,Porcentaje,19.905217,-99.341814,2139,34151,16505,17646,8883
+621,13,Hidalgo,63,Tepeji del Río de Ocampo,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,11.957449,13.97438945,Porcentaje,19.905217,-99.341814,2139,34151,16505,17646,8883
+622,13,Hidalgo,63,Tepeji del Río de Ocampo,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.1074827,0.086160794,Porcentaje,19.905217,-99.341814,2139,34151,16505,17646,8883
+623,13,Hidalgo,63,Tepeji del Río de Ocampo,6207019010,Porcentaje de población de 25 años y más alfabeta,94.118887,95.18368444,Porcentaje,19.905217,-99.341814,2139,34151,16505,17646,8883
+624,13,Hidalgo,63,Tepeji del Río de Ocampo,6207019020,Porcentaje de población de 15 años y más sin escolaridad,3.9310214,3.612811219,Porcentaje,19.905217,-99.341814,2139,34151,16505,17646,8883
+625,13,Hidalgo,63,Tepeji del Río de Ocampo,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,61.853796,56.9542066,Porcentaje,19.905217,-99.341814,2139,34151,16505,17646,8883
+626,13,Hidalgo,63,Tepeji del Río de Ocampo,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,98.645233,95.83727531,Porcentaje,19.905217,-99.341814,2139,34151,16505,17646,8883
+627,13,Hidalgo,63,Tepeji del Río de Ocampo,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,95.938552,91.41775347,Porcentaje,19.905217,-99.341814,2139,34151,16505,17646,8883
+628,13,Hidalgo,63,Tepeji del Río de Ocampo,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,38.868901,42.30794463,Porcentaje,19.905217,-99.341814,2139,34151,16505,17646,8883
+629,13,Hidalgo,63,Tepeji del Río de Ocampo,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,62.630797,58.7512627,Porcentaje,19.905217,-99.341814,2139,34151,16505,17646,8883
+630,13,Hidalgo,64,Tepetitlán,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,18.26428,21.38532332,Porcentaje,20.186949,-99.380338,2018,836,392,444,232
+631,13,Hidalgo,64,Tepetitlán,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,9.941162,11.90360862,Porcentaje,20.186949,-99.380338,2018,836,392,444,232
+632,13,Hidalgo,64,Tepetitlán,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.1838686,0.072656818,Porcentaje,20.186949,-99.380338,2018,836,392,444,232
+633,13,Hidalgo,64,Tepetitlán,6207019010,Porcentaje de población de 25 años y más alfabeta,93.640898,95.19624185,Porcentaje,20.186949,-99.380338,2018,836,392,444,232
+634,13,Hidalgo,64,Tepetitlán,6207019020,Porcentaje de población de 15 años y más sin escolaridad,4.1676882,2.76095907,Porcentaje,20.186949,-99.380338,2018,836,392,444,232
+635,13,Hidalgo,64,Tepetitlán,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,65.709156,61.49425287,Porcentaje,20.186949,-99.380338,2018,836,392,444,232
+636,13,Hidalgo,64,Tepetitlán,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,97.792706,97.52520623,Porcentaje,20.186949,-99.380338,2018,836,392,444,232
+637,13,Hidalgo,64,Tepetitlán,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,95.174709,94.41340782,Porcentaje,20.186949,-99.380338,2018,836,392,444,232
+638,13,Hidalgo,64,Tepetitlán,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,44.718714,43.58047016,Porcentaje,20.186949,-99.380338,2018,836,392,444,232
+639,13,Hidalgo,64,Tepetitlán,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,67.443001,63.87745217,Porcentaje,20.186949,-99.380338,2018,836,392,444,232
+640,13,Hidalgo,65,Tetepango,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,21.01432,23.64026179,Porcentaje,20.102655,-99.156123,2090,8705,4275,4430,2093
+641,13,Hidalgo,65,Tetepango,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,10.107399,14.35341909,Porcentaje,20.102655,-99.156123,2090,8705,4275,4430,2093
+642,13,Hidalgo,65,Tetepango,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.1551313,0.270819228,Porcentaje,20.102655,-99.156123,2090,8705,4275,4430,2093
+643,13,Hidalgo,65,Tetepango,6207019010,Porcentaje de población de 25 años y más alfabeta,91.944095,93.4264107,Porcentaje,20.102655,-99.156123,2090,8705,4275,4430,2093
+644,13,Hidalgo,65,Tetepango,6207019020,Porcentaje de población de 15 años y más sin escolaridad,4.9642005,4.502369668,Porcentaje,20.102655,-99.156123,2090,8705,4275,4430,2093
+645,13,Hidalgo,65,Tetepango,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,68.321168,65.59322034,Porcentaje,20.102655,-99.156123,2090,8705,4275,4430,2093
+646,13,Hidalgo,65,Tetepango,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,98.655063,97.09302326,Porcentaje,20.102655,-99.156123,2090,8705,4275,4430,2093
+647,13,Hidalgo,65,Tetepango,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,96.745562,94.36860068,Porcentaje,20.102655,-99.156123,2090,8705,4275,4430,2093
+648,13,Hidalgo,65,Tetepango,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,36.580517,46.52567976,Porcentaje,20.102655,-99.156123,2090,8705,4275,4430,2093
+649,13,Hidalgo,65,Tetepango,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,63.75895,57.23313022,Porcentaje,20.102655,-99.156123,2090,8705,4275,4430,2093
+650,13,Hidalgo,66,Villa de Tezontepec,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,19.508852,23.72898835,Porcentaje,19.879861,-98.81929,2321,5214,2504,2710,1286
+651,13,Hidalgo,66,Villa de Tezontepec,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,8.9206168,11.79746313,Porcentaje,19.879861,-98.81929,2321,5214,2504,2710,1286
+652,13,Hidalgo,66,Villa de Tezontepec,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.4340377,0.164999484,Porcentaje,19.879861,-98.81929,2321,5214,2504,2710,1286
+653,13,Hidalgo,66,Villa de Tezontepec,6207019010,Porcentaje de población de 25 años y más alfabeta,93.131783,96.05012258,Porcentaje,19.879861,-98.81929,2321,5214,2504,2710,1286
+654,13,Hidalgo,66,Villa de Tezontepec,6207019020,Porcentaje de población de 15 años y más sin escolaridad,4.7744146,3.207177478,Porcentaje,19.879861,-98.81929,2321,5214,2504,2710,1286
+655,13,Hidalgo,66,Villa de Tezontepec,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,64.830508,64.62395543,Porcentaje,19.879861,-98.81929,2321,5214,2504,2710,1286
+656,13,Hidalgo,66,Villa de Tezontepec,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,98.514212,96.97199092,Porcentaje,19.879861,-98.81929,2321,5214,2504,2710,1286
+657,13,Hidalgo,66,Villa de Tezontepec,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,94.973545,93.51585014,Porcentaje,19.879861,-98.81929,2321,5214,2504,2710,1286
+658,13,Hidalgo,66,Villa de Tezontepec,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,35.878525,39.91507431,Porcentaje,19.879861,-98.81929,2321,5214,2504,2710,1286
+659,13,Hidalgo,66,Villa de Tezontepec,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,66.362079,61.10137156,Porcentaje,19.879861,-98.81929,2321,5214,2504,2710,1286
+660,13,Hidalgo,67,Tezontepec de Aldama,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,18.833091,22.09729516,Porcentaje,20.192762,-99.272683,2007,4731,2320,2411,1186
+661,13,Hidalgo,67,Tezontepec de Aldama,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,10.522633,14.1800429,Porcentaje,20.192762,-99.272683,2007,4731,2320,2411,1186
+662,13,Hidalgo,67,Tezontepec de Aldama,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.1722375,0.093695293,Porcentaje,20.192762,-99.272683,2007,4731,2320,2411,1186
+663,13,Hidalgo,67,Tezontepec de Aldama,6207019010,Porcentaje de población de 25 años y más alfabeta,92.053821,93.95047742,Porcentaje,20.192762,-99.272683,2007,4731,2320,2411,1186
+664,13,Hidalgo,67,Tezontepec de Aldama,6207019020,Porcentaje de población de 15 años y más sin escolaridad,4.2924808,3.407549868,Porcentaje,20.192762,-99.272683,2007,4731,2320,2411,1186
+665,13,Hidalgo,67,Tezontepec de Aldama,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,65.066999,62.89865344,Porcentaje,20.192762,-99.272683,2007,4731,2320,2411,1186
+666,13,Hidalgo,67,Tezontepec de Aldama,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,98.871224,97.48417465,Porcentaje,20.192762,-99.272683,2007,4731,2320,2411,1186
+667,13,Hidalgo,67,Tezontepec de Aldama,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,95.990496,94.7299509,Porcentaje,20.192762,-99.272683,2007,4731,2320,2411,1186
+668,13,Hidalgo,67,Tezontepec de Aldama,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,43.109025,45.79797143,Porcentaje,20.192762,-99.272683,2007,4731,2320,2411,1186
+669,13,Hidalgo,67,Tezontepec de Aldama,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,66.179558,60.22141677,Porcentaje,20.192762,-99.272683,2007,4731,2320,2411,1186
+670,13,Hidalgo,68,Tianguistengo,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,10.967428,13.90448055,Porcentaje,20.728213,-98.630851,1651,1624,742,882,439
+671,13,Hidalgo,68,Tianguistengo,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,5.87263,7.986213688,Porcentaje,20.728213,-98.630851,1651,1624,742,882,439
+672,13,Hidalgo,68,Tianguistengo,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.0680603,0.403741999,Porcentaje,20.728213,-98.630851,1651,1624,742,882,439
+673,13,Hidalgo,68,Tianguistengo,6207019010,Porcentaje de población de 25 años y más alfabeta,66.408868,72.95589536,Porcentaje,20.728213,-98.630851,1651,1624,742,882,439
+674,13,Hidalgo,68,Tianguistengo,6207019020,Porcentaje de población de 15 años y más sin escolaridad,23.461351,17.57754801,Porcentaje,20.728213,-98.630851,1651,1624,742,882,439
+675,13,Hidalgo,68,Tianguistengo,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,56.487026,62.63888889,Porcentaje,20.728213,-98.630851,1651,1624,742,882,439
+676,13,Hidalgo,68,Tianguistengo,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,98.242972,98.14309121,Porcentaje,20.728213,-98.630851,1651,1624,742,882,439
+677,13,Hidalgo,68,Tianguistengo,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,94.720497,93.67631297,Porcentaje,20.728213,-98.630851,1651,1624,742,882,439
+678,13,Hidalgo,68,Tianguistengo,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,39.691334,38.26940232,Porcentaje,20.728213,-98.630851,1651,1624,742,882,439
+679,13,Hidalgo,68,Tianguistengo,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,59.63053,60.12801576,Porcentaje,20.728213,-98.630851,1651,1624,742,882,439
+680,13,Hidalgo,69,Tizayuca,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,28.073618,32.46666011,Porcentaje,19.841089,-98.981584,2266,43250,21325,21925,10976
+681,13,Hidalgo,69,Tizayuca,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,15.52878,17.87574953,Porcentaje,19.841089,-98.981584,2266,43250,21325,21925,10976
+682,13,Hidalgo,69,Tizayuca,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.31657,0.158098234,Porcentaje,19.841089,-98.981584,2266,43250,21325,21925,10976
+683,13,Hidalgo,69,Tizayuca,6207019010,Porcentaje de población de 25 años y más alfabeta,96.677636,97.92436705,Porcentaje,19.841089,-98.981584,2266,43250,21325,21925,10976
+684,13,Hidalgo,69,Tizayuca,6207019020,Porcentaje de población de 15 años y más sin escolaridad,2.4061725,1.915200367,Porcentaje,19.841089,-98.981584,2266,43250,21325,21925,10976
+685,13,Hidalgo,69,Tizayuca,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,63.013506,58.66786275,Porcentaje,19.841089,-98.981584,2266,43250,21325,21925,10976
+686,13,Hidalgo,69,Tizayuca,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,98.678702,96.96701235,Porcentaje,19.841089,-98.981584,2266,43250,21325,21925,10976
+687,13,Hidalgo,69,Tizayuca,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,96.361135,94.3860326,Porcentaje,19.841089,-98.981584,2266,43250,21325,21925,10976
+688,13,Hidalgo,69,Tizayuca,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,46.941591,50.62179442,Porcentaje,19.841089,-98.981584,2266,43250,21325,21925,10976
+689,13,Hidalgo,69,Tizayuca,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,53.67486,47.58429175,Porcentaje,19.841089,-98.981584,2266,43250,21325,21925,10976
+690,13,Hidalgo,70,Tlahuelilpan,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,22.191958,24.05756406,Porcentaje,20.130627,-99.23468,2043,8498,4113,4385,2069
+691,13,Hidalgo,70,Tlahuelilpan,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,14.715791,16.06177606,Porcentaje,20.130627,-99.23468,2043,8498,4113,4385,2069
+692,13,Hidalgo,70,Tlahuelilpan,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.1003512,0.049140049,Porcentaje,20.130627,-99.23468,2043,8498,4113,4385,2069
+693,13,Hidalgo,70,Tlahuelilpan,6207019010,Porcentaje de población de 25 años y más alfabeta,93.68533,95.71611253,Porcentaje,20.130627,-99.23468,2043,8498,4113,4385,2069
+694,13,Hidalgo,70,Tlahuelilpan,6207019020,Porcentaje de población de 15 años y más sin escolaridad,3.4621174,3.187083187,Porcentaje,20.130627,-99.23468,2043,8498,4113,4385,2069
+695,13,Hidalgo,70,Tlahuelilpan,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,64.19214,62.66666667,Porcentaje,20.130627,-99.23468,2043,8498,4113,4385,2069
+696,13,Hidalgo,70,Tlahuelilpan,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,99.537893,97.14008725,Porcentaje,20.130627,-99.23468,2043,8498,4113,4385,2069
+697,13,Hidalgo,70,Tlahuelilpan,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,95.395395,95.58067831,Porcentaje,20.130627,-99.23468,2043,8498,4113,4385,2069
+698,13,Hidalgo,70,Tlahuelilpan,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,44.903047,47.58871702,Porcentaje,20.130627,-99.23468,2043,8498,4113,4385,2069
+699,13,Hidalgo,70,Tlahuelilpan,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,59.529783,56.64443664,Porcentaje,20.130627,-99.23468,2043,8498,4113,4385,2069
+700,13,Hidalgo,71,Tlahuiltepa,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,6.5518633,11.13079421,Porcentaje,20.923913,-98.950201,2000,341,167,174,95
+701,13,Hidalgo,71,Tlahuiltepa,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,2.3005516,3.646294656,Porcentaje,20.923913,-98.950201,2000,341,167,174,95
+702,13,Hidalgo,71,Tlahuiltepa,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.0538141,0.059049306,Porcentaje,20.923913,-98.950201,2000,341,167,174,95
+703,13,Hidalgo,71,Tlahuiltepa,6207019010,Porcentaje de población de 25 años y más alfabeta,78.421661,81.80330849,Porcentaje,20.923913,-98.950201,2000,341,167,174,95
+704,13,Hidalgo,71,Tlahuiltepa,6207019020,Porcentaje de población de 15 años y más sin escolaridad,14.166555,12.10510776,Porcentaje,20.923913,-98.950201,2000,341,167,174,95
+705,13,Hidalgo,71,Tlahuiltepa,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,55.555556,56.09756098,Porcentaje,20.923913,-98.950201,2000,341,167,174,95
+706,13,Hidalgo,71,Tlahuiltepa,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,98.344371,97.42798354,Porcentaje,20.923913,-98.950201,2000,341,167,174,95
+707,13,Hidalgo,71,Tlahuiltepa,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,95.007133,91.6015625,Porcentaje,20.923913,-98.950201,2000,341,167,174,95
+708,13,Hidalgo,71,Tlahuiltepa,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,16.787791,31.57894737,Porcentaje,20.923913,-98.950201,2000,341,167,174,95
+709,13,Hidalgo,71,Tlahuiltepa,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,76.927216,73.05875406,Porcentaje,20.923913,-98.950201,2000,341,167,174,95
+710,13,Hidalgo,72,Tlanalapa,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,23.84447,25.64310545,Porcentaje,19.817894,-98.603913,2458,7518,3621,3897,1903
+711,13,Hidalgo,72,Tlanalapa,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,18.836101,22.43337196,Porcentaje,19.817894,-98.603913,2458,7518,3621,3897,1903
+712,13,Hidalgo,72,Tlanalapa,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.2188747,0.092699884,Porcentaje,19.817894,-98.603913,2458,7518,3621,3897,1903
+713,13,Hidalgo,72,Tlanalapa,6207019010,Porcentaje de población de 25 años y más alfabeta,95.43122,96.67582021,Porcentaje,19.817894,-98.603913,2458,7518,3621,3897,1903
+714,13,Hidalgo,72,Tlanalapa,6207019020,Porcentaje de población de 15 años y más sin escolaridad,3.6822454,3.035921205,Porcentaje,19.817894,-98.603913,2458,7518,3621,3897,1903
+715,13,Hidalgo,72,Tlanalapa,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,60.960334,63.03030303,Porcentaje,19.817894,-98.603913,2458,7518,3621,3897,1903
+716,13,Hidalgo,72,Tlanalapa,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,98.402256,96.8489342,Porcentaje,19.817894,-98.603913,2458,7518,3621,3897,1903
+717,13,Hidalgo,72,Tlanalapa,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,95.833333,95.5801105,Porcentaje,19.817894,-98.603913,2458,7518,3621,3897,1903
+718,13,Hidalgo,72,Tlanalapa,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,46.118192,55.11396844,Porcentaje,19.817894,-98.603913,2458,7518,3621,3897,1903
+719,13,Hidalgo,72,Tlanalapa,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,53.418308,48.79490151,Porcentaje,19.817894,-98.603913,2458,7518,3621,3897,1903
+720,13,Hidalgo,73,Tlanchinol,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,13.210329,16.06776776,Porcentaje,20.989346,-98.660284,1541,5199,2521,2678,1257
+721,13,Hidalgo,73,Tlanchinol,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,5.1457522,7.001121727,Porcentaje,20.989346,-98.660284,1541,5199,2521,2678,1257
+722,13,Hidalgo,73,Tlanchinol,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.2155091,0.108304645,Porcentaje,20.989346,-98.660284,1541,5199,2521,2678,1257
+723,13,Hidalgo,73,Tlanchinol,6207019010,Porcentaje de población de 25 años y más alfabeta,71.681184,78.01079414,Porcentaje,20.989346,-98.660284,1541,5199,2521,2678,1257
+724,13,Hidalgo,73,Tlanchinol,6207019020,Porcentaje de población de 15 años y más sin escolaridad,16.643351,14.26526902,Porcentaje,20.989346,-98.660284,1541,5199,2521,2678,1257
+725,13,Hidalgo,73,Tlanchinol,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,75.426621,79.72508591,Porcentaje,20.989346,-98.660284,1541,5199,2521,2678,1257
+726,13,Hidalgo,73,Tlanchinol,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,99.88934,97.72588832,Porcentaje,20.989346,-98.660284,1541,5199,2521,2678,1257
+727,13,Hidalgo,73,Tlanchinol,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,96.11371,93.56913183,Porcentaje,20.989346,-98.660284,1541,5199,2521,2678,1257
+728,13,Hidalgo,73,Tlanchinol,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,38.99337,39.99687402,Porcentaje,20.989346,-98.660284,1541,5199,2521,2678,1257
+729,13,Hidalgo,73,Tlanchinol,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,64.785058,62.55753684,Porcentaje,20.989346,-98.660284,1541,5199,2521,2678,1257
+730,13,Hidalgo,74,Tlaxcoapan,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,21.142169,23.43728408,Porcentaje,20.091614,-99.221593,2062,14241,6974,7267,3278
+731,13,Hidalgo,74,Tlaxcoapan,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,11.845783,16.70275001,Porcentaje,20.091614,-99.221593,2062,14241,6974,7267,3278
+732,13,Hidalgo,74,Tlaxcoapan,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.173494,0.142797918,Porcentaje,20.091614,-99.221593,2062,14241,6974,7267,3278
+733,13,Hidalgo,74,Tlaxcoapan,6207019010,Porcentaje de población de 25 años y más alfabeta,94.031367,95.21905217,Porcentaje,20.091614,-99.221593,2062,14241,6974,7267,3278
+734,13,Hidalgo,74,Tlaxcoapan,6207019020,Porcentaje de población de 15 años y más sin escolaridad,3.4987952,2.855958358,Porcentaje,20.091614,-99.221593,2062,14241,6974,7267,3278
+735,13,Hidalgo,74,Tlaxcoapan,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,67.509482,59.42773294,Porcentaje,20.091614,-99.221593,2062,14241,6974,7267,3278
+736,13,Hidalgo,74,Tlaxcoapan,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,98.715066,96.73090158,Porcentaje,20.091614,-99.221593,2062,14241,6974,7267,3278
+737,13,Hidalgo,74,Tlaxcoapan,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,95.610913,94.24011103,Porcentaje,20.091614,-99.221593,2062,14241,6974,7267,3278
+738,13,Hidalgo,74,Tlaxcoapan,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,44.691062,48.79919273,Porcentaje,20.091614,-99.221593,2062,14241,6974,7267,3278
+739,13,Hidalgo,74,Tlaxcoapan,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,63.339759,56.86120964,Porcentaje,20.091614,-99.221593,2062,14241,6974,7267,3278
+740,13,Hidalgo,75,Tolcayuca,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,23.973163,28.61474323,Porcentaje,19.956591,-98.921761,2378,6836,3318,3518,1738
+741,13,Hidalgo,75,Tolcayuca,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,11.667485,13.92205167,Porcentaje,19.956591,-98.921761,2378,6836,3318,3518,1738
+742,13,Hidalgo,75,Tolcayuca,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.2045492,0.17055145,Porcentaje,19.956591,-98.921761,2378,6836,3318,3518,1738
+743,13,Hidalgo,75,Tolcayuca,6207019010,Porcentaje de población de 25 años y más alfabeta,94.893384,95.74158031,Porcentaje,19.956591,-98.921761,2378,6836,3318,3518,1738
+744,13,Hidalgo,75,Tolcayuca,6207019020,Porcentaje de población de 15 años y más sin escolaridad,3.2891507,3.335228349,Porcentaje,19.956591,-98.921761,2378,6836,3318,3518,1738
+745,13,Hidalgo,75,Tolcayuca,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,63.829787,60.94570928,Porcentaje,19.956591,-98.921761,2378,6836,3318,3518,1738
+746,13,Hidalgo,75,Tolcayuca,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,98.930481,95.96774194,Porcentaje,19.956591,-98.921761,2378,6836,3318,3518,1738
+747,13,Hidalgo,75,Tolcayuca,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,96.680942,94.35897436,Porcentaje,19.956591,-98.921761,2378,6836,3318,3518,1738
+748,13,Hidalgo,75,Tolcayuca,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,42.736432,48.23225065,Porcentaje,19.956591,-98.921761,2378,6836,3318,3518,1738
+749,13,Hidalgo,75,Tolcayuca,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,60.865652,53.9574253,Porcentaje,19.956591,-98.921761,2378,6836,3318,3518,1738
+750,13,Hidalgo,76,Tula de Allende,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,24.659525,26.49740322,Porcentaje,20.05522,-99.343189,2022,28577,13685,14892,7687
+751,13,Hidalgo,76,Tula de Allende,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,19.136806,21.58959472,Porcentaje,20.05522,-99.343189,2022,28577,13685,14892,7687
+752,13,Hidalgo,76,Tula de Allende,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.3817264,0.134942054,Porcentaje,20.05522,-99.343189,2022,28577,13685,14892,7687
+753,13,Hidalgo,76,Tula de Allende,6207019010,Porcentaje de población de 25 años y más alfabeta,95.262757,96.78330457,Porcentaje,20.05522,-99.343189,2022,28577,13685,14892,7687
+754,13,Hidalgo,76,Tula de Allende,6207019020,Porcentaje de población de 15 años y más sin escolaridad,2.8752617,2.221441045,Porcentaje,20.05522,-99.343189,2022,28577,13685,14892,7687
+755,13,Hidalgo,76,Tula de Allende,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,68.581081,64.60777126,Porcentaje,20.05522,-99.343189,2022,28577,13685,14892,7687
+756,13,Hidalgo,76,Tula de Allende,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,99.024985,97.31988734,Porcentaje,20.05522,-99.343189,2022,28577,13685,14892,7687
+757,13,Hidalgo,76,Tula de Allende,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,96.689537,94.95396601,Porcentaje,20.05522,-99.343189,2022,28577,13685,14892,7687
+758,13,Hidalgo,76,Tula de Allende,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,48.023218,51.94381463,Porcentaje,20.05522,-99.343189,2022,28577,13685,14892,7687
+759,13,Hidalgo,76,Tula de Allende,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,52.946681,49.55661896,Porcentaje,20.05522,-99.343189,2022,28577,13685,14892,7687
+760,13,Hidalgo,77,Tulancingo de Bravo,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,21.978117,23.87223736,Porcentaje,20.080605,-98.368073,2148,102406,47775,54631,26219
+761,13,Hidalgo,77,Tulancingo de Bravo,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,16.902075,20.47739694,Porcentaje,20.080605,-98.368073,2148,102406,47775,54631,26219
+762,13,Hidalgo,77,Tulancingo de Bravo,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.1144066,0.107557723,Porcentaje,20.080605,-98.368073,2148,102406,47775,54631,26219
+763,13,Hidalgo,77,Tulancingo de Bravo,6207019010,Porcentaje de población de 25 años y más alfabeta,92.245482,94.16826794,Porcentaje,20.080605,-98.368073,2148,102406,47775,54631,26219
+764,13,Hidalgo,77,Tulancingo de Bravo,6207019020,Porcentaje de población de 15 años y más sin escolaridad,5.8725871,5.312554775,Porcentaje,20.080605,-98.368073,2148,102406,47775,54631,26219
+765,13,Hidalgo,77,Tulancingo de Bravo,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,62.381225,57.77883022,Porcentaje,20.080605,-98.368073,2148,102406,47775,54631,26219
+766,13,Hidalgo,77,Tulancingo de Bravo,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,98.545102,95.91988555,Porcentaje,20.080605,-98.368073,2148,102406,47775,54631,26219
+767,13,Hidalgo,77,Tulancingo de Bravo,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,94.678423,92.02680067,Porcentaje,20.080605,-98.368073,2148,102406,47775,54631,26219
+768,13,Hidalgo,77,Tulancingo de Bravo,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,46.542037,48.19960997,Porcentaje,20.080605,-98.368073,2148,102406,47775,54631,26219
+769,13,Hidalgo,77,Tulancingo de Bravo,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,55.132815,50.2302532,Porcentaje,20.080605,-98.368073,2148,102406,47775,54631,26219
+770,13,Hidalgo,78,Xochiatipan,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,10.829384,13.59676908,Porcentaje,20.835483,-98.284531,648,1532,726,806,366
+771,13,Hidalgo,78,Xochiatipan,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,2.235387,3.056699398,Porcentaje,20.835483,-98.284531,648,1532,726,806,366
+772,13,Hidalgo,78,Xochiatipan,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.3791469,0.055432373,Porcentaje,20.835483,-98.284531,648,1532,726,806,366
+773,13,Hidalgo,78,Xochiatipan,6207019010,Porcentaje de población de 25 años y más alfabeta,64.302922,68.45189145,Porcentaje,20.835483,-98.284531,648,1532,726,806,366
+774,13,Hidalgo,78,Xochiatipan,6207019020,Porcentaje de población de 15 años y más sin escolaridad,20.805687,19.30630345,Porcentaje,20.835483,-98.284531,648,1532,726,806,366
+775,13,Hidalgo,78,Xochiatipan,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,81.957929,81.93612774,Porcentaje,20.835483,-98.284531,648,1532,726,806,366
+776,13,Hidalgo,78,Xochiatipan,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,98.232323,97.65857812,Porcentaje,20.835483,-98.284531,648,1532,726,806,366
+777,13,Hidalgo,78,Xochiatipan,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,94.2959,92.07108681,Porcentaje,20.835483,-98.284531,648,1532,726,806,366
+778,13,Hidalgo,78,Xochiatipan,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,35.913909,41.75862069,Porcentaje,20.835483,-98.284531,648,1532,726,806,366
+779,13,Hidalgo,78,Xochiatipan,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,65.750395,63.98479569,Porcentaje,20.835483,-98.284531,648,1532,726,806,366
+780,13,Hidalgo,79,Xochicoatlán,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,12.400776,16.91367173,Porcentaje,20.776855,-98.679724,1680,1254,601,653,350
+781,13,Hidalgo,79,Xochicoatlán,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,7.9026283,10.05928122,Porcentaje,20.776855,-98.679724,1680,1254,601,653,350
+782,13,Hidalgo,79,Xochicoatlán,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.2116775,0.166728418,Porcentaje,20.776855,-98.679724,1680,1254,601,653,350
+783,13,Hidalgo,79,Xochicoatlán,6207019010,Porcentaje de población de 25 años y más alfabeta,82.147563,87.5028875,Porcentaje,20.776855,-98.679724,1680,1254,601,653,350
+784,13,Hidalgo,79,Xochicoatlán,6207019020,Porcentaje de población de 15 años y más sin escolaridad,11.730464,7.928862542,Porcentaje,20.776855,-98.679724,1680,1254,601,653,350
+785,13,Hidalgo,79,Xochicoatlán,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,64.497041,64.59627329,Porcentaje,20.776855,-98.679724,1680,1254,601,653,350
+786,13,Hidalgo,79,Xochicoatlán,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,99.328108,98.79699248,Porcentaje,20.776855,-98.679724,1680,1254,601,653,350
+787,13,Hidalgo,79,Xochicoatlán,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,99.224806,96.66666667,Porcentaje,20.776855,-98.679724,1680,1254,601,653,350
+788,13,Hidalgo,79,Xochicoatlán,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,46.90583,52.47895229,Porcentaje,20.776855,-98.679724,1680,1254,601,653,350
+789,13,Hidalgo,79,Xochicoatlán,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,67.754454,64.93145609,Porcentaje,20.776855,-98.679724,1680,1254,601,653,350
+790,13,Hidalgo,80,Yahualica,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,10.894575,16.25715442,Porcentaje,20.951649,-98.382867,677,1398,671,727,363
+791,13,Hidalgo,80,Yahualica,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,2.7283586,4.336012025,Porcentaje,20.951649,-98.382867,677,1398,671,727,363
+792,13,Hidalgo,80,Yahualica,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.3457597,0.080938891,Porcentaje,20.951649,-98.382867,677,1398,671,727,363
+793,13,Hidalgo,80,Yahualica,6207019010,Porcentaje de población de 25 años y más alfabeta,58.296796,67.77735125,Porcentaje,20.951649,-98.382867,677,1398,671,727,363
+794,13,Hidalgo,80,Yahualica,6207019020,Porcentaje de población de 15 años y más sin escolaridad,28.553467,22.26975776,Porcentaje,20.951649,-98.382867,677,1398,671,727,363
+795,13,Hidalgo,80,Yahualica,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,73.138483,87.52817431,Porcentaje,20.951649,-98.382867,677,1398,671,727,363
+796,13,Hidalgo,80,Yahualica,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,98.402644,97.70812268,Porcentaje,20.951649,-98.382867,677,1398,671,727,363
+797,13,Hidalgo,80,Yahualica,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,93.975904,94.40045249,Porcentaje,20.951649,-98.382867,677,1398,671,727,363
+798,13,Hidalgo,80,Yahualica,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,37.089202,44.14794007,Porcentaje,20.951649,-98.382867,677,1398,671,727,363
+799,13,Hidalgo,80,Yahualica,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,57.47784,57.0561369,Porcentaje,20.951649,-98.382867,677,1398,671,727,363
+800,13,Hidalgo,81,Zacualtipán de Ángeles,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,18.859685,19.53597122,Porcentaje,20.645181,-98.653627,1979,23125,10901,12224,5948
+801,13,Hidalgo,81,Zacualtipán de Ángeles,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,11.338455,13.95323741,Porcentaje,20.645181,-98.653627,1979,23125,10901,12224,5948
+802,13,Hidalgo,81,Zacualtipán de Ángeles,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.2264456,0.129496403,Porcentaje,20.645181,-98.653627,1979,23125,10901,12224,5948
+803,13,Hidalgo,81,Zacualtipán de Ángeles,6207019010,Porcentaje de población de 25 años y más alfabeta,89.818122,91.04333559,Porcentaje,20.645181,-98.653627,1979,23125,10901,12224,5948
+804,13,Hidalgo,81,Zacualtipán de Ángeles,6207019020,Porcentaje de población de 15 años y más sin escolaridad,7.1370805,6.723021583,Porcentaje,20.645181,-98.653627,1979,23125,10901,12224,5948
+805,13,Hidalgo,81,Zacualtipán de Ángeles,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,52.888446,52.41141732,Porcentaje,20.645181,-98.653627,1979,23125,10901,12224,5948
+806,13,Hidalgo,81,Zacualtipán de Ángeles,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,99.139579,97.99902391,Porcentaje,20.645181,-98.653627,1979,23125,10901,12224,5948
+807,13,Hidalgo,81,Zacualtipán de Ángeles,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,94.556765,93.37493999,Porcentaje,20.645181,-98.653627,1979,23125,10901,12224,5948
+808,13,Hidalgo,81,Zacualtipán de Ángeles,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,41.67815,43.96722238,Porcentaje,20.645181,-98.653627,1979,23125,10901,12224,5948
+809,13,Hidalgo,81,Zacualtipán de Ángeles,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,62.438334,59.65827338,Porcentaje,20.645181,-98.653627,1979,23125,10901,12224,5948
+810,13,Hidalgo,82,Zapotlán de Juárez,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,21.022853,24.36964429,Porcentaje,19.974047,-98.861883,2360,4961,2385,2576,1217
+811,13,Hidalgo,82,Zapotlán de Juárez,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,10.404879,13.87090808,Porcentaje,19.974047,-98.861883,2360,4961,2385,2576,1217
+812,13,Hidalgo,82,Zapotlán de Juárez,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.183702,0.104802417,Porcentaje,19.974047,-98.861883,2360,4961,2385,2576,1217
+813,13,Hidalgo,82,Zapotlán de Juárez,6207019010,Porcentaje de población de 25 años y más alfabeta,94.648186,95.69206223,Porcentaje,19.974047,-98.861883,2360,4961,2385,2576,1217
+814,13,Hidalgo,82,Zapotlán de Juárez,6207019020,Porcentaje de población de 15 años y más sin escolaridad,4.7615549,3.520128229,Porcentaje,19.974047,-98.861883,2360,4961,2385,2576,1217
+815,13,Hidalgo,82,Zapotlán de Juárez,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,64.565217,60.37549407,Porcentaje,19.974047,-98.861883,2360,4961,2385,2576,1217
+816,13,Hidalgo,82,Zapotlán de Juárez,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,98.190864,96.59896079,Porcentaje,19.974047,-98.861883,2360,4961,2385,2576,1217
+817,13,Hidalgo,82,Zapotlán de Juárez,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,97.711268,94.31356621,Porcentaje,19.974047,-98.861883,2360,4961,2385,2576,1217
+818,13,Hidalgo,82,Zapotlán de Juárez,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,44.347826,48.26370049,Porcentaje,19.974047,-98.861883,2360,4961,2385,2576,1217
+819,13,Hidalgo,82,Zapotlán de Juárez,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,63.627012,58.13451698,Porcentaje,19.974047,-98.861883,2360,4961,2385,2576,1217
+820,13,Hidalgo,83,Zempoala,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,23.601319,26.77738596,Porcentaje,19.915397,-98.668131,2456,6798,3268,3530,1816
+821,13,Hidalgo,83,Zempoala,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,16.248601,26.62040723,Porcentaje,19.915397,-98.668131,2456,6798,3268,3530,1816
+822,13,Hidalgo,83,Zempoala,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.1149808,0.179729269,Porcentaje,19.915397,-98.668131,2456,6798,3268,3530,1816
+823,13,Hidalgo,83,Zempoala,6207019010,Porcentaje de población de 25 años y más alfabeta,93.363945,96.4750181,Porcentaje,19.915397,-98.668131,2456,6798,3268,3530,1816
+824,13,Hidalgo,83,Zempoala,6207019020,Porcentaje de población de 15 años y más sin escolaridad,4.4842507,2.80969173,Porcentaje,19.915397,-98.668131,2456,6798,3268,3530,1816
+825,13,Hidalgo,83,Zempoala,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,68.778281,65.07000737,Porcentaje,19.915397,-98.668131,2456,6798,3268,3530,1816
+826,13,Hidalgo,83,Zempoala,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,98.582551,97.07835325,Porcentaje,19.915397,-98.668131,2456,6798,3268,3530,1816
+827,13,Hidalgo,83,Zempoala,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,97.111913,95.24271845,Porcentaje,19.915397,-98.668131,2456,6798,3268,3530,1816
+828,13,Hidalgo,83,Zempoala,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,46.026987,55.75821845,Porcentaje,19.915397,-98.668131,2456,6798,3268,3530,1816
+829,13,Hidalgo,83,Zempoala,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,55.550849,43.6127858,Porcentaje,19.915397,-98.668131,2456,6798,3268,3530,1816
+830,13,Hidalgo,84,Zimapán,6200240314,Porcentaje de la población de 15 años y más con instrucción media superior,19.447766,20.78755204,Porcentaje,20.738069,-99.383113,1764,13243,6217,7026,3356
+831,13,Hidalgo,84,Zimapán,6200240365,Porcentaje de la población de 15 años y más con instrucción superior,10.256771,13.85040606,Porcentaje,20.738069,-99.383113,1764,13243,6217,7026,3356
+832,13,Hidalgo,84,Zimapán,6200240368,Porcentaje de la población de 15 años y más con instrucción no especificada,0.1653183,0.211560773,Porcentaje,20.738069,-99.383113,1764,13243,6217,7026,3356
+833,13,Hidalgo,84,Zimapán,6207019010,Porcentaje de población de 25 años y más alfabeta,89.543603,92.57936508,Porcentaje,20.738069,-99.383113,1764,13243,6217,7026,3356
+834,13,Hidalgo,84,Zimapán,6207019020,Porcentaje de población de 15 años y más sin escolaridad,6.4333451,5.108168976,Porcentaje,20.738069,-99.383113,1764,13243,6217,7026,3356
+835,13,Hidalgo,84,Zimapán,6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,62.291667,59.06579608,Porcentaje,20.738069,-99.383113,1764,13243,6217,7026,3356
+836,13,Hidalgo,84,Zimapán,6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,99.353897,97.97146679,Porcentaje,20.738069,-99.383113,1764,13243,6217,7026,3356
+837,13,Hidalgo,84,Zimapán,6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,97.744053,94.56617003,Porcentaje,20.738069,-99.383113,1764,13243,6217,7026,3356
+838,13,Hidalgo,84,Zimapán,6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,39.745092,50.95079988,Porcentaje,20.738069,-99.383113,1764,13243,6217,7026,3356
+839,13,Hidalgo,84,Zimapán,6207019031,Porcentaje de población de 15 años y más con escolaridad básica,63.696799,60.04231215,Porcentaje,20.738069,-99.383113,1764,13243,6217,7026,3356
